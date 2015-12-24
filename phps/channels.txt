@@ -1,0 +1,21 @@
+Nickelodeon Deutschland,10773,21107,1
+N24,10773,21108,1
+Disney Channel Deutschland,10803,5500,1
+Deluxe Music,10803,5503,1
+Sport 1,10803,5505,1
+RTL Deutschland,10832,61200,1
+Vox Deutschland,10832,61201,1
+N-TV,10832,61204,1
+RTL 2 Deutschland,10832,61205,1
+TLC Germany,10964,10100,1
+Super RTL Deutschland,11082,11931,1
+RTL Nitro Deutschland,11082,11951,1
+Sat. 1 Gold Deutschland,11112,12500,1
+Sat. 1 Deutschland,11464,61300,1
+Pro Sieben Deutschland,11464,61301,1
+Kabel Eins Deutschland,11464,61302,1
+Sixx Deutschland,11464,61303,1
+Pro Sieben Maxx Deutschland,11464,61304,1
+Tele 5,12574,5401,1
+DMAX Deutschland,12574,5402,1
+MTV HD,10964,10103,1
