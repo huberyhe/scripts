@@ -1,5 +1,5 @@
 <?php
-$db = new mysqli("localhost", "iksdbuser", "iksdb123!@#",'iksdb3');
+$db = new mysqli("localhost", "root", "123456",'iksdb3');
 if(mysqli_connect_errno())
 {
 	print 'Error connect.' . "\n";

@@ -2,7 +2,7 @@
 require_once 'vendor/autoload.php';
 $hashids = new Hashids\Hashids('this is my salt', 10, 'abcdefghij1234567890');
 
-$db = new mysqli("localhost", "iksdbuser", "iksdb123!@#",'iksdb3');
+$db = new mysqli("localhost", "root", "123456",'iksdb3');
 if(mysqli_connect_errno())
 {
 	print 'Error connect.' . "\n";
