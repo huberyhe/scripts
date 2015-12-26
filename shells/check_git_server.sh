@@ -7,8 +7,7 @@ nslookupIP=$(nslookup $serverDomainName 118.118.118.118 | grep Address | sed -n 
 echo "Got nslookup IP: $nslookupIP"
 # publicIP=$(curl 178.62.234.75:16000/api/v1.0 | grep remote | awk '{print $2}' | sed 's/\"//g')
 publicIP=$(curl -s http://www.dicovi.com/shows/git?ns=$nslookupIP | sed 's/.*"remote":"\([^",}]*\).*/\1/')
-echo "Got public IP: $publicIP"
-printf "\n"
+echo -e "Got public IP: $publicIP\n"
 
 if [[ $nslookupIP == $publicIP ]]; then
 	#statements
