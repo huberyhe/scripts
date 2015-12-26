@@ -11,6 +11,7 @@ ADDR = (HOST, PORT)
 exitScript = False
 
 tcpSerSock = socket(AF_INET, SOCK_STREAM)
+tcpSerSock.setsockopt(SOL_SOCKET, SO_REUSEADDR, 1)
 tcpSerSock.bind(ADDR)
 tcpSerSock.listen(5)
 
