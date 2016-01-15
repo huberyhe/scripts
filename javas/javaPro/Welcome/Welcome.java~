@@ -1,0 +1,26 @@
+//This aplication program prints Welcome to java!
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class Welcome {
+	public static void main(String[] args){
+		System.out.print("Enter a double velue:");
+		//Scanner scanner = new Scanner(System.in);
+		//double d = scanner.nextDouble();
+		double d = Double.parseDouble(readString("Enter a double value:"));
+		int i = (int)d;
+		System.out.println("Welcome to java!" + "i = " + i + ",d = " + d+ ".");
+	}
+}
+
+private static String readString(String prompt){
+	BufferedReader br = BufferedReader(new InputStreamReader(System.in));
+	String str = null;
+	try{
+		System.out.print(prompt);
+		str = br.readLine();
+	}catch (IOException e){
+		e.printStackTrace();
+	}
+	return str;
+}
