@@ -21,7 +21,8 @@ if __name__ == '__main__':
 	while True:
 		try:
 			your_ip_address = raw_input('Input ip address: ')
-			break
+			if your_ip_address != '':
+				break
 		except (KeyboardInterrupt, EOFError, ValueError):
 			print '\ninvalid input... try again'
 

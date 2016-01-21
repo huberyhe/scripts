@@ -17,19 +17,19 @@ PORT = int(sys.argv[2])
 print "HOST: %s, PORT: %d"%(HOST, PORT)
 ADDR = (HOST, PORT)
 
-udpCliSock = socket(AF_INET, SOCK_DGRAM)
+udpSerSock = socket(AF_INET, SOCK_DGRAM)
+udpSerSock.bind(ADDR)
 
 while True:
-	data = raw_input('> ')
-	if not data:
-		continue
-	udpCliSock.sendto(data, ADDR)
-	if "QUIT" in data:
-		break
-	data, ADDR = udpCliSock.recvfrom(BUFSIZ)
+	print 'waiting for message...'
+	data, addr = udpSerSock.recvfrom(BUFSIZ)
 	if not data:
 		continue
 	if "QUIT" in data:
 		break
-	print data
-udpCliSock.close()
+	print 'received \"%s\" from %s' % (data, addr)
+	udpSerSock.sendto('[%s] %s' %(
+		ctime(), data), addr)
+	print '...received from and returned to:', addr
+
+udpSerSock.close()
