@@ -1,4 +1,4 @@
-sid, sfq, sdg, sname
+----------sid----------sfq----------sdg----------sname----------
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12246 6604
 => Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12246 6604
 6604, 12246, 19.2E, OCS geants
@@ -56,7 +56,8 @@ sid, sfq, sdg, sname
 17201, 10971, 13.0E, SRF 1
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12124 9906
-9906, 12124, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12129 9906
+9906, 12124, 19.2E, J-One
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 11038 30400
 => Parsing http://www.lyngsat.com/packages/Movistar--19E.html 11038 30400
@@ -642,7 +643,7 @@ sid, sfq, sdg, sname
 1801, 11977, 36.0E, Perviy kanal(+2h)
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 11372 6302
-6302, 11372, 19.2E, No freq found
+6302, 11372, 19.2E, BeIn Sports 2
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 10803 5500
 5500, 10803, 19.2E, Disney Channel Deutschland
@@ -868,6 +869,7 @@ sid, sfq, sdg, sname
 
 -> Parsing http://www.lyngsat.com/Eutelsat-36A-36B.html 12169 10106
 => Parsing http://www.lyngsat.com/packages/Tricolor-TV-36E.html 12169 10106
+=> Parsing http://www.lyngsat.com/tvchannels/ru/TNV-Tatarstan.html 12174 10106
 10106, 12169, 36.0E, No sid found
 
 -> Parsing http://www.lyngsat.com/Eutelsat-36A-36B.html 12476 20611
@@ -1256,7 +1258,8 @@ sid, sfq, sdg, sname
 2202, 12015, 36.0E, KHL TV HD
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12163 9302
-9302, 12163, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12168 9302
+9302, 12163, 19.2E, Cine + Premier
 
 -> Parsing http://www.lyngsat.com/Thor-5-6-7-and-Intelsat-10-02.html 10903 3801
 => Parsing http://www.lyngsat.com/packages/Canal-Digital.html 10903 3801
@@ -1365,7 +1368,8 @@ sid, sfq, sdg, sname
 5005, 12598, 156.0E, Channel V Australia
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12163 9306
-9306, 12163, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12168 9306
+9306, 12163, 19.2E, France 2
 
 -> Parsing http://www.lyngsat.com/Eutelsat-36A-36B.html 12380 10206
 => Parsing http://www.lyngsat.com/packages/NTV-Plus.html 12380 10206
@@ -1727,7 +1731,8 @@ sid, sfq, sdg, sname
 9503, 12699, 19.2E, MultiSports 2
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12124 9902
-9902, 12124, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12129 9902
+9902, 12124, 19.2E, TCM Cinéma
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12699 9502
 => Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12699 9502
@@ -2055,7 +2060,8 @@ sid, sfq, sdg, sname
 1002, 12558, 156.0E, Foxtel Movies Premiere
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12280 17030
-17030, 12280, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/packages/Orange-France-19E.html 12285 17030
+17030, 12280, 19.2E, Action(France)
 
 -> Parsing http://www.lyngsat.com/Hispasat-1D-1E.html 12168 212
 => Parsing http://www.lyngsat.com/packages/Meo.html 12169 212
@@ -2727,6 +2733,7 @@ sid, sfq, sdg, sname
 
 -> Parsing http://www.lyngsat.com/Eutelsat-36A-36B.html 12169 10108
 => Parsing http://www.lyngsat.com/packages/Tricolor-TV-36E.html 12169 10108
+=> Parsing http://www.lyngsat.com/tvchannels/ru/TNV-Tatarstan.html 12174 10108
 10108, 12169, 36.0E, No sid found
 
 -> Parsing http://www.lyngsat.com/Amos-2-3.html 10806 811
@@ -2837,6 +2844,7 @@ sid, sfq, sdg, sname
 
 -> Parsing http://www.lyngsat.com/Eutelsat-36A-36B.html 12169 10102
 => Parsing http://www.lyngsat.com/packages/Tricolor-TV-36E.html 12169 10102
+=> Parsing http://www.lyngsat.com/tvchannels/ru/TNV-Tatarstan.html 12174 10102
 10102, 12169, 36.0E, No sid found
 
 -> Parsing http://www.lyngsat.com/Thor-5-6-7-and-Intelsat-10-02.html 11843 31003
@@ -2927,7 +2935,8 @@ sid, sfq, sdg, sname
 2006, 11411, 7.0W, No sid found
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12358 9003
-9003, 12358, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12363 9003
+9003, 12358, 19.2E, No sid found
 
 811, 10806, 123.0E, No dgr found
 
@@ -4093,7 +4102,7 @@ sid, sfq, sdg, sname
 7306, 12188, 13.0E, Eurosport 1 Polska
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 11372 6301
-6301, 11372, 19.2E, No freq found
+6301, 11372, 19.2E, BeIn Sports 1
 
 -> Parsing http://www.lyngsat.com/Eutelsat-Hot-Bird-13B-13C-13D.html 12399 951
 => Parsing http://www.lyngsat.com/packages/SRG-SSR.html 12399 951
@@ -4112,7 +4121,8 @@ sid, sfq, sdg, sname
 1415, 10758, 4.0W, RTV International Israel
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 11372 6321
-6321, 11372, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/providers/fr/GlobeCast.html 11377 6321
+6321, 11372, 19.2E, No sid found
 
 -> Parsing http://www.lyngsat.com/Amos-2-3.html 10758 1409
 => Parsing http://www.lyngsat.com/packages/Yes.html 10758 1409
@@ -4233,7 +4243,8 @@ sid, sfq, sdg, sname
 19114, 11996, 36.0E, EuroNews
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12436 6507
-6507, 12436, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12441 6507
+6507, 12436, 19.2E, Kombat Sport
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12441 6507
 => Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12441 6507
@@ -4509,7 +4520,8 @@ sid, sfq, sdg, sname
 20614, 12476, 36.0E, Cartoon Network Russia & South East Europe
 
 -> Parsing http://www.lyngsat.com/Eutelsat-36A-36B.html 11469 20614
-20614, 11469, 36.0E, No freq found
+=> Parsing http://www.lyngsat.com/packages/DSTV-Africa.html 11474 20614
+20614, 11469, 36.0E, No sid found
 
 -> Parsing http://www.lyngsat.com/Optus-D1.html 12608 1021
 => Parsing http://www.lyngsat.com/packages/Sky-New-Zealand.html 12608 1021
@@ -4801,7 +4813,8 @@ sid, sfq, sdg, sname
 11004, 12092, 0.8W, AXN Central Europe
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12124 9903
-9903, 12124, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12129 9903
+9903, 12124, 19.2E, Golf +
 
 -> Parsing http://www.lyngsat.com/Eutelsat-36A-36B.html 12437 410
 => Parsing http://www.lyngsat.com/packages/NTV-Plus.html 12437 410
@@ -4811,7 +4824,8 @@ sid, sfq, sdg, sname
 11004, 12090, 0.8W, AXN Central Europe
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12124 9901
-9901, 12124, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12129 9901
+9901, 12124, 19.2E, Discovery Showcase HD
 
 -> Parsing http://www.lyngsat.com/Eutelsat-36A-36B.html 11785 13101
 => Parsing http://www.lyngsat.com/packages/DSTV-Africa.html 11785 13101
@@ -4843,7 +4857,8 @@ sid, sfq, sdg, sname
 16105, 11900, 36.0E, Che(0h)
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12124 9908
-9908, 12124, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12129 9908
+9908, 12124, 19.2E, Cartoon Network France
 
 -> Parsing http://www.lyngsat.com/Eutelsat-36A-36B.html 10898 16105
 16105, 10898, 36.0E, No freq found
@@ -4868,7 +4883,8 @@ sid, sfq, sdg, sname
 1409, 10903, 0.8W, SVT 2
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12124 9905
-9905, 12124, 19.2E, No freq found
+=> Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12129 9905
+9905, 12124, 19.2E, Téva
 
 -> Parsing http://www.lyngsat.com/Astra-1KR-1L-1M-1N.html 12129 9905
 => Parsing http://www.lyngsat.com/packages/CanalSat-France.html 12129 9905
@@ -5243,7 +5259,8 @@ sid, sfq, sdg, sname
 16944, 11662, 13.0E, No sid found
 
 -> Parsing http://www.lyngsat.com/Horizons-2-and-Intelsat-15.html 12075 415
-415, 12075, 85.0E, No freq found
+=> Parsing http://www.lyngsat.com/packages/Kontinent-TV.html 12080 415
+415, 12075, 85.0E, Russkiy Roman
 
 4960, 11179, 13.2E, No dgr found
 
@@ -5637,3 +5654,11 @@ sid, sfq, sdg, sname
 -> Parsing http://www.lyngsat.com/Horizons-2-and-Intelsat-15.html 11760 1323
 => Parsing http://www.lyngsat.com/packages/Next-Step.html 11758 1323
 => Parsing http://www.lyngsat.com/packages/Kontinent-TV.html 11760 1323
+1323, 11760, 85.0E, No sid found
+
+-> Parsing http://www.lyngsat.com/Eutelsat-36A-36B.html 11900 16102
+=> Parsing http://www.lyngsat.com/packages/DSTV-Africa.html 11900 16102
+=> Parsing http://www.lyngsat.com/packages/NTV-Plus.html 11900 16102
+16102, 11900, 36.0E, Amedia 2
+
+----------sid----------sfq----------sdg----------sname----------

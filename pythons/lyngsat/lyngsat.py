@@ -68,18 +68,8 @@ class Lyngsat():
 						chn_freq_content = ''
 						if len(chn_freqs) > 0:
 							chn_freq_content = chn_freqs[0].text
-							try:
-								if '&nbsp;' in chn_freq_content:
-									# chn_freq_content = '%s%s' % (chn_freq_content.strip().strip('&nbsp;').split('&')[0], chn_freq_content.split(';')[-1])
-									chn_freq_content = chn_freq_content.strip().strip('&nbsp;').split('&')[0]
-								elif ' ' in chn_freq_content:
-									chn_freq_content = chn_freq_content.strip().strip('&nbsp;').split(' ')[0]
-								else:
-									chn_freq_content = chn_freq_content
-							except Exception, e:
-								ex = sys.exc_info()
-								logger.warning('Exception \"%s\" in line %d' % (ex[1], ex[2].tb_lineno))
-								chn_freq_content = ''
+							# chn_freq_content = '%s%s' % (chn_freq_content.strip().strip('&nbsp;').split('&')[0], chn_freq_content.split(';')[-1])
+							chn_freq_content = chn_freq_content.replace(' ','').strip('&nbsp;').split('&')[0]
 						# it's what we need
 						if chn_freq_content:
 							if abs(float(chn_freq_content)- float(freq)) < 6:
@@ -89,29 +79,18 @@ class Lyngsat():
 									pkg_link = tds2_a[0]['href']
 									pkg_links.append((chn_freq, pkg_link))
 								# print chn_freq,pkg_link
-							else:
-								continue
+							else:continue
 					else:
 						chn_info = []
-						if chn_freq == '':
-							continue
+						if chn_freq == '':continue
 						for td in tds:
-							if td.attrs and ('bgcolor','#ffcc99') in td.attrs:
-								chn_info.append(td.text)
-							if td.attrs and ('bgcolor','#99ff99') in td.attrs:
-								chn_info.append(td.text)
+							if td.attrs and ('bgcolor','#ffcc99') in td.attrs:chn_info.append(td.text)
+							if td.attrs and ('bgcolor','#99ff99') in td.attrs:chn_info.append(td.text)
 						if len(chn_info):
 							chn_sid_content = chn_info[3]
-							if '&nbsp;' in chn_sid_content:
-								# chn_freq_content = '%s%s' % (chn_freq_content.strip().strip('&nbsp;').split('&')[0], chn_freq_content.split(';')[-1])
-								chn_sid = chn_sid_content.strip().strip('&nbsp;').split('&')[0]
-							elif ' ' in chn_freq_content:
-								chn_sid = chn_sid_content.strip().strip('&nbsp;').split(' ')[0]
-							else:
-								chn_sid = chn_sid_content
+							chn_sid = chn_sid_content.replace('&nbsp;','').replace(' ','')
 							# print chn_info
-							if chn_sid == '':continue
-							if int(chn_sid) == int(sid):chn_name = chn_info[0]
+							if chn_sid and int(chn_sid) == int(sid):chn_name = chn_info[0]
 		if chn_name == '':
 			if chn_freq == '': return (False, 'No freq found')
 			else:
@@ -140,8 +119,7 @@ class Lyngsat():
 		if len(tables) > 1:
 			# print 'table num:',len(tables)
 			for i in range(0, len(tables)):
-				if chn_freq != '':
-					break
+				if chn_freq != '':break
 				try:
 					trs = tables[i].findAll('tr')
 				except Exception, e:
@@ -161,40 +139,21 @@ class Lyngsat():
 						chn_freq_content = ''
 						if len(chn_freqs) > 0:
 							chn_freq_content = chn_freqs[0].text
-							try:
-								if '&nbsp;' in chn_freq_content:
-									# chn_freq_content = '%s%s' % (chn_freq_content.strip().strip('&nbsp;').split('&')[0], chn_freq_content.split(';')[-1])
-									chn_freq_content = chn_freq_content.strip().strip('&nbsp;').split('&')[0]
-								elif ' ' in chn_freq_content:
-									chn_freq_content = chn_freq_content.strip().strip('&nbsp;').split(' ')[0]
-								else:
-									chn_freq_content = chn_freq_content
-							except Exception, e:
-								ex = sys.exc_info()
-								logger.warning('Exception \"%s\" in line %d' % (ex[1], ex[2].tb_lineno))
-								chn_freq_content = ''
+							chn_freq_content = chn_freq_content.replace('&nbsp;','').strip().split(' ')[0]
 						# it's what we need
 						if chn_freq_content:
-							if chn_freq != '' and float(chn_freq_content) != float(chn_freq):
-								break
+							if chn_freq and float(chn_freq_content) != float(chn_freq):break
 							if float(chn_freq_content)== float(freq):
 								chn_freq = str(chn_freq_content)
 								chn_sid_content = tds[6].text
-								if '&nbsp;' in chn_sid_content:
-									chn_sid = chn_sid_content.strip().strip('&nbsp;').split('&')[0]
-								elif ' ' in chn_sid_content:
-									chn_sid = chn_sid_content.strip().strip('&nbsp;').split(' ')[0]
-								else:
-									chn_sid = chn_sid_content
-								if chn_sid == sid:
+								chn_sid = chn_sid_content.replace('&nbsp;','').replace(' ','')
+								if chn_sid and int(chn_sid) == int(sid):
 									chn_name = tds[2].text
 									break
-							else:
-								continue
+							else:continue
 					elif len(tds) == 9:
 						chn_info = []
-						if chn_freq == '':
-							continue
+						if chn_freq == '':continue
 						for td in tds:
 							if td.attrs and ('bgcolor','#ffcc99') in td.attrs:
 								chn_info.append(td.text)
@@ -205,7 +164,6 @@ class Lyngsat():
 							# print chn_info
 							if chn_sid == '':continue
 							if chn_sid == sid:
-
 								chn_name = chn_info[0]
 								break
 		if chn_name == '':
@@ -315,7 +273,7 @@ class Lyngsat():
 		if not os.path.exists(from_file): return
 		f = open(from_file, 'r')
 		file_chn = open(to_file, 'w')
-		logger.info('sid, sfq, sdg, sname')
+		logger.info('-'*10 + 'sid' + '-'*10 + 'sfq' + '-'*10 + 'sdg' + '-'*10 + 'sname' + '-'*10 + '\n')
 
 		for line in f.readlines():
 			chn_f = eval(line)
@@ -327,8 +285,7 @@ class Lyngsat():
 				urls_sats =  lyngsat.lookup_sat_urls(sdg)
 				for urls_sat in urls_sats:
 					(result,sname) = self.lookup_chn_in_sat(urls_sat, sfq, sid)
-					if result:
-						break
+					if result:break
 			except Exception, e:
 				ex = sys.exc_info()
 				logger.info('Exception \"%s\" in line %d' % (ex[1], ex[2].tb_lineno))
@@ -340,7 +297,7 @@ class Lyngsat():
 				ex = sys.exc_info()
 				logger.warning('Exception \"%s\" in line %d' % (ex[1], ex[2].tb_lineno))
 			logger.info(chn_info + '\n')
-		logger.info('sid, sfq, sdg, sname')
+		logger.info('-'*10 + 'sid' + '-'*10 + 'sfq' + '-'*10 + 'sdg' + '-'*10 + 'sname' + '-'*10)
 		file_chn.close()
 		f.close()
 
@@ -398,11 +355,10 @@ if __name__ == '__main__':
 
 	# exit()
 
-	urls_sats =  lyngsat.lookup_sat_urls('19.2E')
+	urls_sats =  lyngsat.lookup_sat_urls('13.0E')
 	for urls_sat in urls_sats:
-		(result, chn_name) = lyngsat.lookup_chn_in_sat(urls_sat, 12012, 8801)
-		if result:
-			break
+		(result, chn_name) = lyngsat.lookup_chn_in_sat(urls_sat, 10758, 17022)
+		if result:break
 	logger.info('chn name:' + chn_name)
 
 	exit()
