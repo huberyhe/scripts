@@ -1,1275 +1,1422 @@
-31213, 12111, 0.8W, RTL +
-904, 12109, 85.0E, No freq found
-13110, 11158, 13.0E, Polsat 2
-13034, 11278, 13.0E, No sid found
-13054, 11278, 13.0E, No sid found
-7303, 12188, 13.0E, AXN Black Polska
-19103, 11996, 36.0E, TV 1000 Action
-6301, 11376, 19.2E, BeIn Sports 1
-6321, 11376, 19.2E, No freq found
+6604, 12246, 19.2E, OCS geants
+21103, 12092, 36.0E, Sport 1(Russia)
+1401, 12246, 30.0W, No sid found
+451, 12246, 30.0W, Sport TV 1
+9504, 12699, 19.2E, MultiSports 3
+29900, 11435, 19.2E, Canal + Estrenos
+6602, 12246, 19.2E, Disney Junior France
+29909, 11435, 19.2E, No sid found
+4446, 11293, 0.8W, TV 3 Sverige
+9906, 12129, 19.2E, J-One
+309, 12734, 152.0E, M Tunes
+6605, 12246, 19.2E, Voyage
+9909, 12129, 19.2E, MCS Bien-être
+17201, 10971, 13.0E, SRF 1
+9906, 12124, 19.2E, No freq found
+30400, 11038, 19.2E, Canal + Estrenos
+9902, 12129, 19.2E, TCM Cinéma
+9906, 12128, 19.2E, J-One
+16106, 11900, 36.0E, Muz TV(Russia)
+3107, 12265, 13.0E, Polsat
+111, 11992, 19.2E, Disney Cinemagic Deutschland
+30850, 11127, 19.2E, Canal + Series
+7160, 10778, 0.8W, Kanal 9(Sweden)
+10079, 11597, 19.2E, RMC Découverte HD 24
+4404, 11934, 28.2E, Sky Movies Premiere HD
+7160, 10777, 0.8W, Kanal 9(Sweden)
+10304, 12399, 36.0E, Rossiya 1(0h)
+30760, 10936, 19.2E, No sid found
+150, 12646, 166.0E, ART Variety Australia
+4220, 11914, 28.2E, Sky Sports 3 Ireland
+9402, 12090, 19.2E, Disney Cinema
+30903, 11258, 19.2E, Canal + Golf
+183, 12646, 166.0E, MBC International
+29809, 11317, 19.2E, AXN White España
+20504, 12456, 36.0E, Animal Planet Russia
+421, 12437, 36.0E, Zee TV Russia
+30908, 11258, 19.2E, No sid found
+7199, 12015, 0.8W, No sid found
+451, 12245, 30.0W, Sport TV 1
+4405, 11934, 28.2E, Sky Movies Premiere HD +1
+9407, 12090, 19.2E, Discovery Science Channel
+10304, 12245, 56.0E, No sid found
+7351, 12188, 13.0E, JimJam Polska
+10, 11075, 13.0E, Mediaset Italia 2
+30, 11075, 13.0E, No sid found
+30750, 10935, 19.2E, Mezzo Live HD
+10509, 12284, 13.0E, Discovery Science Channel Polska
+3112, 12265, 13.0E, No sid found
+30755, 10935, 19.2E, No sid found
+307, 12734, 166.0E, No freq found
+30001, 10906, 19.2E, Movistar F1
+10309, 12399, 36.0E, Telekanal Zvezda(0h)
+206, 12646, 166.0E, Arabica TV
+6603, 12246, 19.2E, Syfy France
+1325, 12266, 28.2E, Sky Sports News HQ in Pubs
+320, 12646, 166.0E, BeIn Sports Global
+29806, 11317, 19.2E, Canal + Dcine
+31002, 12111, 36.0E, No sid found
+1404, 12246, 30.0W, No sid found
+30611, 10876, 19.2E, No sid found
+454, 12246, 30.0W, National Geographic Channel HD Europe
+4807, 10892, 13.0E, TVP 1
+5613, 12207, 23.5E, National Geographic Channel HD Europe
+30004, 10906, 19.2E, Antena 3(Spain)
+301, 11681, 13.0E, TF 1
+3507, 10834, 13.0E, Zest TV(23-05)
+6302, 11376, 19.2E, BeIn Sports 2
+6322, 11376, 19.2E, No sid found
+30860, 11126, 19.2E, Canal + España
+10081, 11597, 19.2E, No sid found
+197, 12646, 166.0E, LDC America & Australia
+13002, 12692, 19.2E, ORF 2
+340, 12646, 166.0E, OTV(Lebanon)
+9406, 12090, 19.2E, Eurosport 2
+9908, 12129, 19.2E, Cartoon Network France
+1027, 10934, 0.8W, VH1 Europe
+380, 12646, 166.0E, Syria Drama
+19123, 11996, 36.0E, Telekanal Zvezda(+2h)
+13138, 12070, 23.5E, TV Nova
+9404, 12090, 19.2E, OCS choc
+9409, 12090, 19.2E, Planète + CI
+30656, 10979, 19.2E, TVE La 1 Madrid
+6601, 12246, 19.2E, 13ème Rue
+27009, 12226, 56.0E, NTV(+3h)
+1402, 12246, 30.0W, No sid found
+452, 12246, 30.0W, Sport TV 2
+11111, 12341, 36.0E, Bridge TV
+30652, 10979, 19.2E, Factoria de Ficción
+725, 12207, 23.5E, HBO 2 Central Europe
+6606, 12246, 19.2E, Paramount Channel France
+30659, 10979, 19.2E, Telecinco
+30902, 11258, 19.2E, Canal + Series Xtra
+711, 12207, 23.5E, HBO Czechia
+30907, 11258, 19.2E, No sid found
+29910, 11435, 19.2E, Canal + Deportes 2 HD
+29911, 11435, 19.2E, No sid found
+300, 12646, 166.0E, MTV Alloubnaniya
+4405, 10719, 13.0E, Kino Polska
+7352, 12188, 13.0E, Boomerang Central & Eastern Europe
+10552, 12284, 13.0E, No sid found
+712, 12207, 23.5E, HBO Comedy Central Europe
+731, 12207, 23.5E, Sport 1 Czechia
+27003, 12226, 55.9E, No dgr found
+5611, 12207, 23.5E, Nat Geo Wild Europe
+30801, 10729, 19.2E, Canal + Comedia
+30807, 10729, 19.2E, No sid found
+26002, 12207, 36.0E, National Geographic Channel HD Russia & Turkey
+30608, 10876, 19.2E, Calle 13
+31006, 12265, 36.0E, 5 Kanal(0h)
+5101, 11837, 23.5E, TV Joj
+9401, 12090, 19.2E, Disney XD France
+9403, 12090, 19.2E, Ma Chaîne Sport
+5101, 11836, 23.5E, TV Joj
+131, 11914, 19.2E, Sky Cinema
+5106, 11837, 23.5E, RTV 2(Slovakia)
+205, 12646, 166.0E, Future TV America & Australia
+30819, 10729, 19.2E, TVE La 1 Madrid
+5103, 11837, 23.5E, TV Markíza
+29816, 11317, 19.2E, Canal + España
+5105, 11837, 23.5E, RTV 1(Slovakia)
+10304, 12245, 36.0E, No sid found
+9408, 12090, 19.2E, Disney Channel France +1
+5106, 11836, 23.5E, RTV 2(Slovakia)
+603, 12476, 36.0E, No sid found
+20514, 12456, 36.0E, National Geographic Channel Russia
+5108, 11837, 23.5E, Dajto
+5155, 11798, 23.5E, CS Mini(06-12)
+5103, 11836, 23.5E, TV Markíza
+5105, 11836, 23.5E, RTV 1(Slovakia)
+603, 11474, 36.0E, No sid found
+5108, 11836, 23.5E, Dajto
+5155, 11797, 23.5E, CS Mini(06-12)
+309, 11278, 0.8W, C More Emotion
+15714, 10796, 13.0E, FilmBox Family
+5104, 11837, 23.5E, TV Doma
+5104, 11836, 23.5E, TV Doma
+5044, 12110, 23.5E, TV Markíza
+29805, 11317, 19.2E, Canal + Comedia
+13104, 11785, 36.0E, NTV Plus Futbol 3
+8901, 12640, 19.2E, E! France
+303, 12734, 152.0E, Life OK India
+310, 11681, 13.0E, TMC
+30809, 10729, 19.2E, No sid found
+30212, 11685, 19.2E, Antena 3(Spain)
+3506, 10834, 13.0E, Discovery Historia
+15813, 11508, 13.0E, Puls 2
+6607, 12246, 19.2E, MCS Extrême
+5041, 12110, 23.5E, Eurosport 2 Nederland
+330, 12646, 166.0E, ART Hekayat
+15001, 11449, 13.0E, Canal + Discovery
+724, 12207, 23.5E, The Fishing & Hunting Channel
+25006, 12187, 55.9E, No dgr found
+10304, 12399, 26.0E, No freq found
+3670, 11938, 5.0E, No freq found
+29951, 10817, 19.2E, Canal + Fútbol
+129, 11914, 19.2E, Sky Sport 1
+29960, 10817, 19.2E, No sid found
+350, 12646, 166.0E, Iqraa Arabic
+9907, 12129, 19.2E, Penthouse HD
+30753, 10935, 19.2E, National Geographic Channel HD Europe
+5046, 12110, 23.5E, TV Doma
+30761, 10935, 19.2E, No sid found
+5150, 12110, 23.5E, JimJam Europe
+29901, 11435, 19.2E, Syfy Universal España
+728, 12207, 23.5E, Universal Channel Czechia
+29905, 11435, 19.2E, No sid found
+10104, 12322, 36.0E, Kinoklub
+5045, 12110, 23.5E, Discovery Showcase HD
+6302, 11377, 19.2E, BeIn Sports 2
+10106, 12322, 36.0E, Perviy kanal
+1801, 11977, 36.0E, Perviy kanal(+2h)
+6302, 11372, 19.2E, No freq found
+5500, 10803, 19.2E, Disney Channel Deutschland
+30853, 11126, 19.2E, TCM España
+30858, 11126, 19.2E, No sid found
+6302, 11376, 28.2E, No freq found
+10105, 12322, 36.0E, Nashe Kino
+8906, 12640, 19.2E, Sport 365
+2211, 12015, 36.0E, Sankt Peterburg
+9405, 12090, 19.2E, Non Stop People France
+5047, 12110, 23.5E, Eurosport 1 Benelux
+51090, 11141, 28.2E, Nick Jr UK +1
+19106, 11996, 36.0E, Viasat History
+30605, 10876, 19.2E, National Geographic Channel España
+51091, 11141, 19.2E, No sid found
+5034, 12398, 30.0W, No sid found
+405, 11258, 0.4W, No dgr found
+409, 12398, 30.0W, Eurosport 1
+30358, 10788, 19.2E, Canal + Series
+31010, 12265, 36.0E, STS Love
+19104, 11996, 36.0E, TV 1000 Russkoe Kino
+30521, 11156, 19.2E, Movistar Moto GP
+2712, 11216, 0.8W, No sid found
+50465, 11671, 28.2E, Zee Cinema UK
+29815, 11317, 19.2E, AXN España
+706, 12245, 36.0E, Eurosport 2 North-East
+6610, 12246, 19.2E, Seasons
+29860, 10758, 19.2E, Movistar F1
+603, 12322, 36.0E, No sid found
+4802, 12188, 28.2E, Crime + Investigation UK
+405, 11258, 4.0W, National Geographic Channel Israel
+22, 11758, 19.2E, Heimatkanal
+52113, 11261, 28.2E, Star Gold UK
+30407, 11038, 19.2E, TCM España
+30655, 10979, 19.2E, La Sexta
+6660, 12130, 5.0E, No freq found
+604, 12476, 36.0E, No sid found
+7375, 12188, 13.0E, Fox Comedy Polska
+15822, 11508, 13.0E, TVN Style
+56312, 12322, 56.0E, No sid found
+15710, 10796, 13.0E, National Geographic Channel Polska
+3505, 10834, 13.0E, TVP Sport
+10504, 12284, 13.0E, Travel Channel Europe
+10507, 12284, 13.0E, CBS Europa
+706, 12092, 36.0E, No sid found
+20710, 11052, 28.2E, ITV 2
+29807, 11317, 19.2E, Fox España
+10106, 12169, 4.9E, No sid found
+10106, 12821, 36.0E, No freq found
+5102, 11837, 23.5E, Plus
+30513, 11156, 19.2E, Historia España
+30680, 10979, 19.2E, Nat Geo Wild España
+13108, 11785, 36.0E, Kanal Disney(0h)
+5102, 11836, 23.5E, Plus
+10106, 12168, 19.2E, No sid found
+10106, 11321, 36.0E, No freq found
+30751, 10935, 19.2E, Calle 13
+30756, 10935, 19.2E, No sid found
+10106, 11320, 36.0E, No freq found
+10106, 12169, 36.0E, No sid found
+20611, 12476, 36.0E, Investigation Discovery Europe
+12853, 12722, 19.2E, RTBF La Trois
+4808, 10892, 13.0E, TVP 2
+7301, 12188, 13.0E, Polsat Romans
+6608, 12246, 19.2E, France Ô
+404, 12246, 30.0W, Canal Hollywood Portugal
+30657, 10979, 19.2E, Canal Hollywood España
+13206, 11876, 23.5E, Prima Cool
+30852, 11126, 19.2E, Nat Geo Wild Europe
+31002, 12265, 36.0E, Istoriya Telekanal
+30857, 11126, 19.2E, No sid found
+19110, 11996, 36.0E, Russkij Extreme
+203, 12168, 30.0W, No sid found
+108, 12304, 19.2E, Sky Sport News HD
+29964, 10818, 19.2E, Canal Hollywood España
+30002, 10906, 19.2E, Movistar Moto GP
+15717, 10796, 13.0E, FilmBox Action HD
+4805, 10892, 13.0E, Ale Kino +
+727, 12207, 23.5E, Spektrum International
+706, 12034, 7.0W, ART Aflam 1
+30658, 10979, 19.2E, TVE La 2
+17032, 10758, 13.0E, TVP Rozrywka
+6504, 12441, 19.2E, Djazz TV
+6505, 12441, 19.2E, Série Club
+5044, 12110, 19.2E, No sid found
+6502, 12441, 19.2E, Mezzo Live HD
+13022, 11278, 13.0E, Canal + Sport Polska
+30610, 10876, 19.2E, Canal + Liga
+709, 12034, 7.0W, ART Cinema
+6508, 12441, 19.2E, Comédie +
+6510, 12441, 19.2E, Piwi +
+6509, 12441, 19.2E, Extreme Sports Channel France
+8905, 12640, 19.2E, Game One
+3508, 10834, 13.0E, Motowizja
+30800, 10729, 19.2E, AXN España
+30806, 10729, 19.2E, No sid found
+56204, 12476, 56.0E, No sid found
+706, 12034, 7.2W, No dgr found
+425, 11258, 4.0W, No sid found
+29967, 10817, 19.2E, No sid found
+30904, 12265, 0.8W, Viasat Explore East(05-23)
+708, 12034, 7.0W, ART Aflam 2
+15904, 10911, 13.0E, Universal Channel Polska
+7353, 12188, 13.0E, MTV Rocks
+15825, 11508, 13.0E, No sid found
+5109, 11488, 13.0E, Eleven Sports Polska
+3, 11164, 88.0E, FTV(Taiwan)
+101, 11876, 19.2E, Universal Channel Deutschland
+30802, 10729, 19.2E, Canal + Liga
+30808, 10729, 19.2E, No sid found
+7216, 11325, 0.8W, Discovery Science Channel
+30220, 11685, 19.2E, Canal + Deportes 2 HD
+101, 12640, 85.0E, Perviy kanal(0h)
+30754, 10935, 19.2E, Canal + Deportes
+30760, 10935, 19.2E, No sid found
+20506, 12456, 36.0E, Eurosport 1 International
+15705, 10796, 13.0E, TVP Kultura
+4811, 10892, 13.0E, Domo +
+314, 11681, 13.0E, France 4
+5, 11075, 13.0E, Viva Polska
+25, 11075, 13.0E, No sid found
+36, 11758, 19.2E, Syfy Deutschland
+17021, 10758, 13.0E, No sid found
+168, 11758, 19.2E, Motorvision TV
+229, 12600, 85.0E, Zee TV Russia
+30850, 11126, 19.2E, Canal + Series
+30855, 11126, 19.2E, No sid found
+7357, 12188, 13.0E, TV 6(Poland)
+5202, 12168, 23.5E, Wau TV
+3594, 10834, 13.0E, HBO Comedy Polska
+45, 11075, 13.0E, No sid found
+10506, 12284, 13.0E, Extreme Sports Channel
+15824, 11508, 13.0E, TVN Turbo
+30904, 11258, 19.2E, Cosmopolitan TV España
+30909, 11258, 19.2E, No sid found
+9302, 12168, 19.2E, Cine + Premier
+21109, 12092, 36.0E, U
+16112, 11900, 36.0E, KinoHit
+30504, 12034, 0.8W, RTL Klub
+9303, 12168, 19.2E, M6
+30507, 11156, 19.2E, Caza y Pesca
+30308, 11804, 0.8W, Cool TV(Hungary)
+4308, 11934, 19.2E, No sid found
+29902, 11435, 19.2E, Viajar(Spain)
+807, 10806, 0.4W, No dgr found
+29907, 11435, 19.2E, No sid found
+4308, 11934, 28.2E, Sky Movies Disney HD
+13767, 11727, 13.0E, Sexto Senso
+9306, 12168, 19.2E, France 2
+21030, 12188, 23.5E, Canvas
+21107, 12092, 36.0E, Amedia 1
+21025, 12188, 23.5E, Één
+30752, 10935, 19.2E, Nickelodeon Iberia
+3801, 10902, 0.8W, SVT 1
+30757, 10935, 19.2E, No sid found
+140, 11171, 19.2E, RTL Crime Deutschland
+1325, 10722, 4.0W, No sid found
+2202, 12015, 36.0E, KHL TV HD
+9302, 12163, 19.2E, No freq found
+3801, 10903, 0.8W, SVT 1
+116, 12382, 19.2E, Sky Action
+4304, 11934, 28.2E, Sky Movies Sci-Fi & Horror HD
+5008, 12598, 156.0E, Crime + Investigation Network Australia
+29915, 11435, 19.2E, AXN White España
+29916, 11435, 19.2E, No sid found
+113, 12382, 19.2E, History HD Deutschland
+5004, 12598, 156.0E, Disney Channel Australia
+6630, 12130, 4.9E, Futbol 1
+21109, 11938, 36.0E, No sid found
+31209, 12111, 0.8W, CT art(20-06)
+10201, 12380, 36.0E, 365 dnei TV
+15821, 11508, 13.0E, TVN(Poland)
+15827, 11508, 13.0E, TVN 7
+15826, 11508, 13.0E, TVN 24
+132, 12382, 19.2E, Eurosport 1 Germany
+8502, 10992, 13.0E, Rai Movie
+13142, 12070, 23.5E, Leo TV(22-06)
+9306, 12168, 31.5E, No sid found
+123, 12382, 19.2E, TNT Serie
+9304, 12168, 19.2E, W9
+29852, 10758, 19.2E, Baby TV Europe
+15908, 10911, 13.0E, FightBox HD
+9305, 12168, 19.2E, Ushuaïa TV
+9307, 12168, 19.2E, Cine + Émotion
+30805, 12188, 0.8W, Hustler TV Europe
+303, 11681, 13.0E, France 3 Sat
+5005, 12598, 156.0E, Channel V Australia
+9306, 12163, 19.2E, No freq found
+10206, 12380, 36.0E, La Minor
+13142, 12070, 19.2E, No sid found
+10203, 12380, 36.0E, Komedia TV
+29954, 10817, 19.2E, Canal + Dcine
+5003, 12598, 156.0E, MTV Classic Australia
+29963, 10817, 19.2E, No sid found
+15716, 10796, 13.0E, No sid found
+3504, 10834, 13.0E, AXN Spin Polska
+15830, 11508, 13.0E, TVN Fabula
+61201, 10832, 19.2E, Vox Deutschland
+252, 12476, 30.0W, TVI Reality
+9309, 12168, 19.2E, France 3 Sat
+13105, 11785, 36.0E, Moskva 24
+20506, 12303, 36.0E, No sid found
+111, 12640, 85.0E, STS(0h)
+30207, 11685, 19.2E, Canal Panda España
+5007, 12598, 156.0E, Fox Sports Action
+29952, 10817, 19.2E, Canal + Acción
+403, 11436, 36.0E, No freq found
+5713, 12148, 28.2E, British Eurosport 1
+29961, 10817, 19.2E, No sid found
+5009, 12598, 156.0E, MTV Australia
+20104, 12130, 36.0E, MGM HD Russia
+15906, 10911, 13.0E, H2 Polska
+1840, 11727, 4.9E, TV 2 Sportskanalen
+403, 12284, 36.0E, No sid found
+7349, 12188, 13.0E, Disney XD Polska
+30614, 10876, 19.2E, Syfy Universal España
+29954, 10818, 19.2E, Canal + Dcine
+7, 12643, 16.0E, Acasa TV
+30765, 10935, 19.2E, Canal + Toros
+2550, 11785, 5.0E, No freq found
+17019, 10758, 13.0E, Stopklatka TV
+2400, 11785, 5.0E, No freq found
+709, 12245, 36.0E, Nickelodeon CIS
+15031, 11449, 13.0E, MGM HD Polska
+12858, 12722, 19.2E, Plug RTL
+4, 11075, 13.0E, Iris
+24, 11075, 13.0E, No sid found
+8503, 11568, 19.2E, NRJ Hits
+1860, 11727, 5.0E, No freq found
+8503, 11567, 19.2E, NRJ Hits
+29856, 10758, 19.2E, Barça TV
+43, 11720, 19.2E, Sky Cinema +24(Germany)
+1802, 11977, 36.0E, NTV(+2h)
+7372, 12188, 13.0E, Viasat History Polska
+3207, 10809, 0.8W, Disney XD Scandinavia
+30606, 10876, 19.2E, Canal + Fútbol
+1850, 10809, 0.8W, TV 8 Sverige
+8804, 12012, 19.2E, Canal + Sport France
+8805, 12012, 19.2E, Canal + Family France
+20501, 12456, 36.0E, Discovery Channel Russia
+8806, 12012, 19.2E, Canal + Séries
+30663, 10979, 19.2E, Cuatro
+14209, 11411, 13.0E, Ale Kino +
+29964, 10817, 19.2E, Canal Hollywood España
+1807, 11977, 36.0E, Gulli
+14105, 11823, 36.0E, NTV Plus Futbol 1
+13141, 12070, 23.5E, Prima Love
+29965, 10817, 19.2E, No sid found
+20106, 12130, 36.0E, Rossiya HD
+3592, 10834, 13.0E, BBC Earth Polska
+8801, 12012, 19.2E, Canal + France
+3509, 10834, 13.0E, TVP ABC
+1408, 12246, 30.0W, No sid found
+419, 12080, 85.0E, Techno 24
+411, 11309, 0.8W, No sid found
+458, 12246, 30.0W, Benfica TV 1
+8002, 12525, 23.5E, Prima
+8808, 12012, 19.2E, Cine + Famiz
+8803, 12012, 19.2E, Canal + Cinéma France
+8802, 12012, 19.2E, Canal + Décalé
+8807, 12012, 19.2E, Cine + Frisson
+17103, 10936, 36.0E, No freq found
+7308, 12188, 13.0E, Disco Polo Music
+8809, 12012, 19.2E, Cine + Classic
+56414, 12399, 55.9E, No dgr found
+17022, 10758, 13.0E, No sid found
+17103, 10937, 36.0E, No freq found
+30607, 10876, 19.2E, Canal + Deportes
+30621, 10876, 19.2E, No sid found
+10808, 12284, 36.0E, No sid found
+30854, 11126, 19.2E, Disney Channel España
+30859, 11126, 19.2E, No sid found
+17103, 11938, 36.0E, TV 1000 Megahit HD
+30408, 11038, 19.2E, Comedy Central España
+20106, 11977, 36.0E, No sid found
+9507, 12699, 19.2E, MultiSports 6
+1218, 10925, 4.0W, Discovery Channel Middle East & Africa
+9501, 12699, 19.2E, Cine + Club
+9503, 12699, 19.2E, MultiSports 2
+9902, 12124, 19.2E, No freq found
+9502, 12699, 19.2E, MultiSports 1
+1005, 12558, 156.0E, Arena(Australia)
+30601, 10876, 19.2E, Canal + Golf
+14101, 11823, 36.0E, Nat Geo Wild Europe
+15037, 11449, 13.0E, TVP 1
+9506, 12699, 19.2E, MultiSports 5
+9902, 12128, 19.2E, TCM Cinéma
+210, 12168, 30.0W, Odisseia
+6304, 11376, 19.2E, BeIn Sports 3
+6324, 11376, 19.2E, No sid found
+10103, 12322, 36.0E, Premiera
+17106, 11938, 36.0E, Viasat Sport East
+5650, 11934, 28.2E, Sky Movies Greats HD
+10310, 12399, 36.0E, Match TV
+7020, 11856, 23.5E, RTL 4
+9203, 12525, 19.2E, Equidia Live
+61200, 10832, 19.2E, RTL Deutschland
+30661, 10979, 19.2E, Canal + Xtra
+31050, 12303, 36.0E, STS(0h)
+30662, 10979, 19.2E, No sid found
+104, 12130, 30.0W, CM TV(Portugal)
+108, 12130, 30.0W, Eurosport 1
+19115, 11996, 36.0E, RT Arabic
+4302, 11934, 28.2E, Sky Movies Action & Adventure HD
+10308, 12399, 36.0E, TV 3(0h)
+20106, 11125, 36.0E, No freq found
+17036, 12285, 19.2E, Chasse & Pêche
+17106, 11785, 36.0E, No sid found
+20618, 12476, 36.0E, MTV Dance
+13203, 11876, 23.5E, Nova Sport(Czechia)
+17021, 12285, 19.2E, AB 1
+4451, 10719, 13.0E, No sid found
+15206, 11258, 13.0E, Animal Planet HD
+17030, 12285, 19.2E, Action(France)
+10110, 12322, 36.0E, Kino Plus
+17026, 12285, 19.2E, Toute l'Histoire
+1007, 12558, 156.0E, No sid found
+2150, 11977, 5.0E, No freq found
+9201, 12525, 19.2E, Boomerang France
+17022, 12285, 19.2E, Animaux
+17020, 12285, 19.2E, AB Moteurs
+17023, 12285, 19.2E, Science & Vie TV
+10211, 12380, 36.0E, Boets
+3430, 11862, 5.0E, No freq found
+1008, 12558, 156.0E, Fox 8
+17035, 12285, 19.2E, RTL 9
+17031, 12285, 19.2E, Mangas
+9904, 12129, 19.2E, Brava HD
+17025, 12285, 19.2E, Trek
+61205, 10832, 19.2E, RTL 2 Deutschland
+30518, 11156, 19.2E, D Cine Español
+10810, 12284, 36.0E, Dom Kino International
+61204, 10832, 19.2E, N-TV
+10205, 12380, 36.0E, Russkaja Noch(00-06)
+56505, 12169, 55.9E, No dgr found
+9204, 12525, 19.2E, InfoSport +
+10202, 12380, 36.0E, Europa Plus TV
+403, 12437, 36.0E, Karusel(+3h)
+10, 11727, 13.0E, Mediaset Italia 2
+17012, 12438, 156.0E, No sid found
+61300, 11464, 19.2E, Sat. 1 Deutschland
+1001, 12558, 156.0E, No sid found
+7307, 12188, 13.0E, Nat Geo Wild Europe
+13768, 11727, 13.0E, Passion XXX
+3590, 10834, 13.0E, BBC HD Polska & Türkiye
+15205, 11258, 13.0E, Nat Geo Wild Europe
+410, 11096, 13.0E, BeIn Sports 1
+10209, 12380, 36.0E, Kuhnya TV
+225, 12168, 30.0W, Disney Channel Portugal
+16109, 11900, 36.0E, Domashniy(0h)
+3032, 11421, 0.8W, No sid found
+3029, 11421, 0.8W, No sid found
+30313, 11804, 0.8W, Prima Cool
+15909, 10911, 13.0E, Eurosport 1 Polska
+9207, 12525, 19.2E, TéléToon + 1
+10209, 12226, 36.0E, No sid found
+3037, 11421, 0.8W, No sid found
+137, 12070, 19.2E, Spiegel Geschichte
+107, 12640, 85.0E, 5 Kanal(0h)
+13761, 11727, 13.0E, Exotica TV
+10102, 12322, 36.0E, NTV Plus Futbol 1
+135, 12070, 19.2E, Sky Cinema +24(Germany)
+1002, 12558, 156.0E, Foxtel Movies Premiere
+17030, 12280, 19.2E, No freq found
+212, 12168, 30.0W, Sport TV 3
+1501, 11862, 36.0E, No sid found
+30209, 11685, 19.2E, Real Madrid TV Español
+1011, 12558, 156.0E, Showcase(Australia)
+13784, 11727, 13.0E, Pink' o TV
+113, 12130, 30.0W, Baby TV Europe
+16007, 11762, 156.0E, No sid found
+7350, 12188, 13.0E, Disney Channel Polska
+4462, 10719, 13.0E, TV Puls(Poland)
+12856, 12722, 19.2E, RTL TVI
+16009, 11762, 156.0E, No sid found
+61301, 11464, 19.2E, Pro Sieben Deutschland
+10101, 12322, 36.0E, NTV Plus Sport
+202, 12172, 30.0W, SIC Notícias
+27090, 12226, 36.0E, Karusel
+10812, 12284, 36.0E, MTV Rocks
+231, 12172, 30.0W, A Bola TV
+127, 12130, 30.0W, SIC K
+30807, 12188, 0.8W, AMC Central Europe
+11109, 12341, 36.0E, Sport Plus(Russia)
+6304, 11377, 19.2E, BeIn Sports 3
+4416, 10719, 13.0E, Discovery Channel Polska
+4452, 10719, 13.0E, No sid found
+27010, 12226, 36.0E, Rossiya 1(0h)
+6609, 12246, 19.2E, Gulli
+1503, 11862, 36.0E, No sid found
+8005, 11817, 19.2E, Planète + Thalassa
+417, 12437, 36.0E, Moskva Doverie
+16008, 11762, 156.0E, No sid found
+13766, 11727, 13.0E, Cento X Cento TV
+13760, 11727, 13.0E, TGirls TV
+11006, 12092, 0.8W, AXN Czech Republic
+27010, 11225, 36.0E, No sid found
+20920, 12129, 23.5E, Film 1 Action
+11006, 12090, 0.8W, AXN Czech Republic
+13763, 11727, 13.0E, SCT
+8003, 11817, 19.2E, MTV Hits
+30203, 11766, 0.8W, Film + Hungary
+9, 11720, 19.2E, Sky Action
+30415, 11038, 19.2E, AMC España
+8009, 11817, 19.2E, D8
+15712, 10796, 13.0E, FilmBox Premium Polska
+1160, 12054, 5.0E, No freq found
+229, 12168, 30.0W, Trace Urban
+26004, 12207, 36.0E, History Russia
+13202, 11876, 23.5E, Prima
+10308, 12245, 36.0E, No sid found
+29950, 10817, 19.2E, Fox España
+29956, 10817, 19.2E, No sid found
+13064, 11278, 13.0E, No sid found
+8007, 11817, 19.2E, OCS City
+17514, 12303, 13.0E, Equidia Live
+7461, 10949, 13.0E, Brazzers TV Europe
+6080, 11739, 23.5E, NPO 2
+7, 11075, 13.0E, La 5
+8004, 11817, 19.2E, MTV France
+8, 11720, 19.2E, Sky Comedy
+233, 12168, 30.0W, Chelsea TV(18-01)
+30412, 11996, 0.8W, Antena 1(Romania)
+8907, 12640, 19.2E, Trace Urban
+4214, 12110, 28.2E, Sky Sports 1 UK
+117, 12132, 30.0W, AMC Portugal
+214, 12168, 30.0W, TV Cine 1
+2215, 12015, 36.0E, Bollywood
+27040, 12226, 36.0E, Rossiya 24
+8904, 12640, 19.2E, Girondins TV
+1220, 10925, 0.4W, No dgr found
+1140, 12054, 5.0E, No freq found
+8111, 11934, 19.2E, Numéro 23
+10301, 12399, 36.0E, NTV(Russia)
+8121, 11934, 19.2E, No sid found
+7315, 12188, 13.0E, Discovery Channel Polska
+15203, 11258, 13.0E, Eurosport 2 North-East
+23, 12032, 19.2E, Sky Krimi
+8112, 11934, 19.2E, France 3 Corse Via Stella
 10202, 12226, 36.0E, No sid found
-10110, 12169, 4.9E, No sid found
-13204, 11876, 23.5E, Fanda
-92, 11960, 75.0E, No freq found
-30102, 11727, 0.8W, Nova Cinema
-56620, 12092, 55.9E, No dgr found
-13024, 11278, 13.0E, No sid found
+11101, 12341, 36.0E, TNT Comedy
+8109, 11934, 19.2E, Paris Première
+8902, 12640, 19.2E, La Chaîne Météo
+9106, 11914, 28.2E, Disney Junior UK +1
+910, 11727, 36.0E, No sid found
+25010, 12190, 36.0E, Dom Kino
+1303, 10722, 4.0W, Nat Geo Wild Europe
+5101, 11488, 13.0E, Canal + »1
+9103, 11914, 28.2E, Disney Junior UK
+3520, 10834, 13.0E, Sport Klub Polska
+28661, 11739, 19.2E, Nick Jr Europe
+1150, 12054, 5.0E, No freq found
+213, 12172, 30.0W, Venus(Argentina)
+12007, 12638, 156.0E, Cartoon Network Australia
+1303, 10722, 0.4W, No dgr found
+6860, 11900, 5.0E, No freq found
+8903, 12640, 19.2E, June
+10303, 12399, 36.0E, Pyatnitsa!
+10, 12032, 19.2E, Sky Cinema
+101, 12130, 30.0W, RTP 1
+3880, 12092, 4.9E, Kanal 5(Sweden)
+31212, 12111, 0.8W, RTL II
+12008, 12638, 156.0E, E! Australia
+13209, 11876, 23.5E, Plus
+204, 12168, 30.0W, Syfy Universal Portugal
+15003, 11449, 13.0E, Investigation Discovery Europe
+14255, 11411, 13.0E, No sid found
+10302, 12399, 36.0E, TNT(Russia)
+12001, 12638, 156.0E, Channel V Hits
+230, 12168, 30.0W, TVI Ficção
+12001, 12638, 146.0E, No dgr found
+1111, 12040, 85.0E, Discovery Channel Russia
+6801, 10778, 0.8W, Kanal 5(Sweden)
+8407, 12670, 19.2E, Nickelodeon 4Teen
+21104, 12092, 36.0E, Sport(Russia)
+6801, 10777, 0.8W, Kanal 5(Sweden)
+31204, 12111, 0.8W, CT Sport
+605, 12160, 83.0E, No freq found
+8006, 11817, 19.2E, Histoire
+402, 12437, 36.0E, REN TV(+2h)
+8404, 12670, 19.2E, Planète + A&E;
+8401, 12670, 19.2E, Boing France
+12164, 12551, 19.2E, NT1
+12165, 12551, 19.2E, No sid found
+56303, 12322, 56.0E, No sid found
+7237, 10778, 0.8W, No sid found
+12010, 12638, 156.0E, Nick Jr Australia
+3860, 12092, 5.0E, No freq found
+7237, 10777, 0.8W, No sid found
+10108, 12322, 36.0E, REN TV
+12005, 12638, 156.0E, Discovery Kids Australia & New Zealand
+904, 11881, 36.0E, TV 3(0h)
+6800, 11900, 5.0E, No freq found
+8405, 12670, 19.2E, TéléToon +
+1405, 10934, 0.8W, TV 4(Sweden)
+31309, 11067, 19.2E, L'Équipe 21
+31409, 11067, 19.2E, No sid found
+8403, 12670, 19.2E, Foot +
+236, 12168, 30.0W, Record News
+14235, 11411, 13.0E, No sid found
+14205, 11411, 13.0E, Teletoon + HD Polska
+3542, 10834, 13.0E, No sid found
+19122, 11996, 36.0E, Ocean TV
+31002, 11842, 0.8W, CT 1
+128, 12130, 30.0W, MTV Portugal
+31002, 11843, 0.8W, CT 1
+30907, 12265, 0.8W, Super TV 2
+16113, 11900, 36.0E, Nashe Novoe Kino
+808, 10806, 4.0W, 5 Plus
+808, 10806, 0.4W, No dgr found
+12009, 12638, 156.0E, Discovery Science Channel Southeast Asia
+21, 11720, 19.2E, Beate Uhse TV(20-06)
+15005, 12518, 156.0E, Sky Racing 1
+8204, 11856, 19.2E, Canal + Sport France
+8224, 11856, 19.2E, No sid found
+8211, 11856, 19.2E, TMC
+8231, 11856, 19.2E, No sid found
+102, 12130, 30.0W, RTP 2
+10302, 12245, 36.0E, No sid found
+22009, 12689, 156.0E, No sid found
+1013, 12054, 0.8W, TV Markíza
+8206, 11856, 19.2E, NRJ 12
+8226, 11856, 19.2E, No sid found
+810, 10806, 0.4W, No dgr found
+8208, 11856, 19.2E, France 3 Sat
+8228, 11856, 19.2E, No sid found
+2110, 11977, 5.0E, No freq found
+802, 10806, 0.4W, No dgr found
+305, 11681, 13.0E, France 5
+13137, 12070, 23.5E, Prima Cool
+1100, 12054, 5.0E, No freq found
+115, 12640, 85.0E, Karusel(0h)
+22007, 12689, 156.0E, 111 Greats
+8209, 11856, 19.2E, France 2
+61302, 11464, 19.2E, Kabel Eins Deutschland
+15003, 12518, 156.0E, Nat Geo People Australia and New Zealand +2
+8229, 11856, 19.2E, No sid found
+810, 10806, 4.0W, Yes Comedy
+10108, 12169, 36.0E, No sid found
+811, 10806, 4.0W, 5 Sport
+8201, 11856, 19.2E, Canal + France
+8221, 11856, 19.2E, No sid found
+22001, 12689, 156.0E, Sky News Australia
+8241, 11856, 19.2E, No sid found
+812, 10806, 4.0W, 9 Kanal
+209, 12168, 30.0W, Discovery Channel Iberia
+110, 12130, 30.0W, Cine Mundo
+409, 12437, 36.0E, 9 Volna
+13202, 11158, 13.0E, Polsat Play
+14239, 11411, 13.0E, No sid found
+2009, 12358, 156.0E, The History Channel Australia & New Zealand
+9007, 12207, 19.2E, Disney Channel France
+9006, 12207, 19.2E, Planète +
+2001, 12358, 156.0E, Nickelodeon Australia
+3407, 11309, 0.8W, TV 3 Sverige
+10303, 11398, 36.0E, No freq found
+22010, 12689, 156.0E, Lifestyle Home
+10303, 11395, 36.0E, No freq found
+129, 12130, 30.0W, Sport TV 4
+13218, 11158, 13.0E, No sid found
+13234, 11158, 13.0E, No sid found
+10302, 12245, 7.0W, No freq found
+18002, 11970, 156.0E, Foxtel Movies Premiere +2
+31003, 11842, 0.8W, TV Nova
+9005, 12207, 19.2E, Eurosport 1
+2008, 12358, 156.0E, National Geographic Channel Australia & New Zealand
+10102, 12169, 36.0E, No sid found
+31003, 11843, 0.8W, TV Nova
+3011, 11421, 0.8W, No sid found
+54217, 11464, 28.2E, Nollywood Movies(UK)
+51084, 11141, 19.2E, No sid found
+9003, 12207, 19.2E, HD1
+3502, 10834, 13.0E, Kino Polska Muzyka
+18008, 11970, 156.0E, Fox 8 +2
+811, 10806, 0.4W, No dgr found
+1812, 11977, 36.0E, Tiji Russia
+12102, 12073, 36.0E, HD Sport
+51084, 11141, 28.2E, Comedy Central Ireland
+317, 11278, 0.8W, C More Hits
+515, 12032, 75.0E, No sid found
+9009, 12207, 19.2E, LCI
+117, 12130, 30.0W, AMC Portugal
+804, 10806, 0.4W, No dgr found
+7362, 12188, 13.0E, Discovery Science Channel Polska
+19102, 11996, 36.0E, TV 1000 East
+2003, 12358, 156.0E, No sid found
+205, 12168, 30.0W, Sport TV 2
+6206, 11876, 28.2E, Discovery Science Channel UK
+2006, 11411, 7.0W, No sid found
+9003, 12358, 19.2E, No freq found
+811, 10806, 123.0E, No dgr found
+1803, 10979, 19.2E, No sid found
+2005, 12358, 156.0E, Fox Sports 3 Australia
+2006, 12358, 156.0E, Universal Channel Australia
+52440, 11582, 28.2E, Discovery Shed
+4403, 11934, 28.2E, Sky Movies Family HD
+4907, 12148, 28.2E, Sky Sports News HQ UK
+9005, 12207, 13.0E, No sid found
+31, 11471, 13.0E, Nickelodeon HD
+2007, 12358, 156.0E, Discovery Channel Australia
+8709, 12402, 19.2E, Gulli
+8729, 12402, 19.2E, No sid found
+38, 10921, 19.2E, Romance TV Deutschland
+8706, 12402, 19.2E, M6
+8726, 12402, 19.2E, No sid found
+18010, 11970, 156.0E, SoHo +2
+13139, 12070, 23.5E, Prima Zoom
+9001, 12207, 19.2E, TF 1
+9004, 12207, 19.2E, Paris Première
+10801, 12284, 36.0E, RTR Planeta Ukraina
+208, 12168, 30.0W, Motors TV
+8701, 12402, 19.2E, D8
+8721, 12402, 19.2E, No sid found
+8702, 12402, 19.2E, France Ô
+8722, 12402, 19.2E, No sid found
+8708, 12402, 19.2E, W9
+8728, 12402, 19.2E, No sid found
+10204, 12226, 55.9E, No dgr found
+51089, 11141, 28.2E, Nick Jr Too UK
+7158, 10714, 0.8W, Eurosport 2 North-East
+52530, 11426, 28.2E, Crime + Investigation UK +1
+7150, 12051, 28.2E, SET Asia
+8704, 12402, 19.2E, France 5
+8724, 12402, 19.2E, No sid found
+12106, 12073, 36.0E, MTV Live HD
+508, 12456, 36.0E, No sid found
+9002, 12207, 19.2E, National Geographic Channel France
+8710, 12402, 19.2E, TF 1
+8730, 12402, 19.2E, No sid found
+10806, 12284, 36.0E, Evrokino
+53200, 11344, 28.2E, E! Ireland
+50415, 11671, 28.2E, ARY Digital UK
+508, 12303, 36.0E, No sid found
+8703, 12402, 19.2E, France 4
+8723, 12402, 19.2E, No sid found
+5037, 12398, 30.0W, No sid found
+11110, 12341, 36.0E, Nash Futbol
+402, 12398, 30.0W, 24 Kitchen Portugal
+15713, 10796, 13.0E, FilmBox Polska
+302, 11681, 13.0E, France 2
+13102, 11158, 13.0E, Polsat Play
+7355, 12188, 13.0E, Blue Hustler Europe(23-05)
+13020, 11278, 13.0E, Canal + Polska
+13111, 11785, 36.0E, Egoist TV
+231, 12168, 30.0W, A Bola TV
+7359, 12188, 13.0E, TNT Polska
+12104, 12073, 36.0E, Eurosport 1 International
+12105, 12073, 36.0E, Discovery Channel Russia
+18003, 11970, 156.0E, The Comedy Channel +2
+13103, 11785, 36.0E, NTV Plus Futbol 2
+2004, 12358, 156.0E, World Movies Channel
+2002, 12358, 156.0E, No sid found
+13206, 11158, 13.0E, Polsat Café
+30702, 11938, 0.8W, JimJam Europe
+2201, 12015, 36.0E, NTV(0h)
+9608, 10744, 0.1W, No dgr found
+20105, 12130, 36.0E, Perviy kanal(0h)
+20105, 11977, 36.0E, No sid found
+19107, 11996, 36.0E, Viasat Nature East
+30706, 11938, 0.8W, No sid found
+7250, 11357, 0.8W, Travel Channel HD Europe
+115, 12130, 30.0W, Canal Hollywood Portugal
+56613, 12245, 56.0E, No sid found
+13207, 11876, 23.5E, Dajto
+5401, 12148, 28.2E, Sky Sports 4 UK
+2201, 12015, 56.0E, No freq found
 28531, 11778, 19.2E, Chérie 25
 28550, 11778, 19.2E, No sid found
+2201, 11862, 36.0E, No sid found
 28551, 11778, 19.2E, No sid found
-709, 12034, 7.0W, ART Cinema
-10811, 12284, 36.0E, Vremya
-30808, 12188, 0.8W, Travel Channel Europe
-14106, 11823, 36.0E, Nickelodeon HD
-1812, 11977, 36.0E, Tiji Russia
-105, 12304, 19.2E, No sid found
-30207, 11766, 0.8W, TV Joj
-30306, 11804, 0.8W, RTV 1(Slovakia)
-19124, 11996, 36.0E, Food Network Russia
-9907, 12129, 19.2E, Penthouse HD
-9506, 12699, 19.2E, MultiSports 5
-9507, 12699, 19.2E, MultiSports 6
-30109, 11727, 0.8W, Prima
-3620, 11938, 5.0E, No freq found
-8709, 12402, 19.2E, Gulli
-7302, 12188, 13.0E, AXN White Polska
-11, 11075, 13.0E, Nickelodeon Europe
-13208, 11876, 23.5E, TV Joj
-421, 12437, 36.0E, Zee TV Russia
-30309, 11804, 0.8W, C8(20-24)
-30901, 12265, 0.8W, Eurosport 1
-9502, 12699, 19.2E, MultiSports 1
-7002, 11886, 156.0E, Foxtel Movies Comedy
-31309, 11067, 19.2E, L'Équipe 21
-31409, 11067, 19.2E, No freq found
-9503, 12699, 19.2E, MultiSports 2
-20504, 12456, 36.0E, Animal Planet Russia
-13139, 12070, 23.5E, Prima Zoom
-8009, 12525, 23.5E, CT art(20-06)
-15001, 11449, 13.0E, Canal + Discovery
-5108, 11488, 13.0E, No sid found
-10503, 12284, 13.0E, Nat Geo People
-914, 11960, 85.0E, Discovery Science Channel
-1920, 12607, 4.9E, TV 1000 East
-7003, 11886, 156.0E, Foxtel Movies Action
-30302, 11804, 0.8W, Sport 1 Czechia
-9501, 12699, 19.2E, No sid found
-10106, 11321, 36.0E, No freq found
-12103, 12073, 36.0E, HD Life
-1164, 12358, 160.0E, Sky Movies Greats
-7008, 11886, 156.0E, MTV Live HD Australia
-7004, 11886, 156.0E, Foxtel Movies Romance
-13210, 11876, 23.5E, Rik
-115, 12640, 85.0E, Karusel(0h)
-3306, 10934, 0.8W, No sid found
-135, 12070, 19.2E, Sky Cinema +24(Germany)
-1510, 12560, 85.0E, KHL TV HD
-8706, 12402, 19.2E, M6
-26004, 12207, 36.0E, History Russia
-8710, 12402, 19.2E, TF 1
-8722, 12402, 19.2E, No sid found
-6801, 10778, 0.8W, Kanal 5(Sweden)
-2083, 4069, 108.2E, No freq found
-1021, 12608, 160.0E, E! Australia
-127, 11992, 19.2E, 13th Street Deutschland
-20514, 12456, 36.0E, National Geographic Channel Russia
-703, 12245, 36.0E, Detski Mir(06-20)
-6903, 10934, 0.8W, C More Hits(Mon-Fri)
-5107, 11488, 13.0E, Eleven Polska
-5153, 11488, 13.0E, No sid found
-9908, 12129, 19.2E, Cartoon Network France
-7010, 11886, 156.0E, Discovery Channel Australia +2
-9009, 12207, 19.2E, LCI
-30312, 11804, 0.8W, Ócko
-30607, 12073, 0.8W, M2
-10081, 11597, 19.2E, No freq found
-8726, 12402, 19.2E, No sid found
-112, 11992, 19.2E, National Geographic Channel Deutschland
-7354, 12188, 13.0E, ATM Rozrywka
-5155, 11798, 23.5E, CS Mini(06-12)
-907, 11960, 85.0E, U(0h)
-9008, 12207, 19.2E, France 5
-6324, 11377, 19.2E, No freq found
-10305, 12399, 36.0E, Rossiya K(0h)
-11107, 12341, 36.0E, Nostalgia
-1001, 12608, 160.0E, The Box(New Zealand)
-9003, 12207, 19.2E, HD1
-10301, 12399, 36.0E, NTV(Russia)
-10304, 12399, 36.0E, Rossiya 1(0h)
-10511, 12284, 13.0E, Disney Junior Türkiye & Polska
-402, 12437, 36.0E, REN TV(+2h)
-5052, 11798, 23.5E, Retro Music TV
-14201, 11411, 13.0E, Canal + Film
-5146, 11797, 23.5E, Duck TV SD
-9203, 12525, 19.2E, Equidia Live
-12851, 12722, 19.2E, RTBF La Une
-1508, 11862, 36.0E, No sid found
-30314, 11804, 0.8W, Prima Love
-13877, 11240, 13.0E, Eurosport 2 North-East
-9204, 12525, 19.2E, InfoSport +
-1, 11075, 13.0E, Italia 1
-30705, 11938, 0.8W, HBO 2 Central Europe
-21102, 12092, 36.0E, NTV Plus Tennis
-137, 12070, 19.2E, Spiegel Geschichte
-403, 12437, 36.0E, Karusel(+3h)
-9201, 12525, 19.2E, No sid found
-9207, 12525, 19.2E, TéléToon + 1
-26, 11720, 19.2E, Disney Junior Deutschland(06-20)
-4214, 12110, 28.2E, Sky Sports 1 UK
-109, 11171, 19.2E, No sid found
-604, 12476, 36.0E, No sid found
-10103, 12322, 36.0E, Premiera
-56419, 12399, 56.0E, No sid found
-31080, 12303, 36.0E, Bober
-57, 10921, 19.2E, A&E; Deutschland
-2206, 10809, 0.8W, Kanal 9(Sweden)
-54217, 11464, 28.2E, Nollywood Movies(UK)
-3005, 12478, 156.0E, Foxtel Digital Help
-7352, 12188, 13.0E, Boomerang Central & Eastern Europe
-15710, 10796, 13.0E, National Geographic Channel Polska
-56411, 12399, 56.0E, No sid found
-1860, 11727, 5.0E, No freq found
-9315, 12188, 28.2E, No sid found
-31050, 12149, 36.0E, No sid found
-31030, 12303, 36.0E, Zoo TV
-8502, 10992, 13.0E, Rai Movie
-17103, 11785, 36.0E, No sid found
-4222, 12207, 28.2E, Sky Sports 2 UK
-13205, 11876, 23.5E, Nova Cinema
-411, 11258, 4.0W, Nick Jr Israel
-4221, 12110, 28.2E, No sid found
-4802, 12188, 28.2E, Crime + Investigation UK
-1820, 11727, 5.0E, No freq found
-20501, 12303, 36.0E, No sid found
-404, 11258, 4.0W, Disney Junior Israel
-15031, 11449, 13.0E, MGM HD Polska
-8003, 11817, 19.2E, MTV Hits
-2550, 11785, 5.0E, No freq found
-416, 11258, 4.0W, MTV Dance
-602, 11222, 4.0W, Home +
-1024, 10843, 4.0W, No sid found
-8004, 11817, 19.2E, MTV France
-4807, 12188, 28.2E, Nat Geo Wild UK
-3009, 12478, 156.0E, Fox Sports News Channel
-412, 12075, 85.0E, No freq found
-30912, 12265, 0.8W, Fem 3
-1002, 10842, 0.4W, No dgr found
-405, 11258, 4.0W, National Geographic Channel Israel
-1007, 10843, 4.0W, Sport 1(Israel)
-7360, 12188, 13.0E, Polsat Sport News
-308, 11681, 13.0E, D8
-1004, 10843, 4.0W, Yes 4
-9309, 12168, 19.2E, France 3 Sat
-8005, 11817, 19.2E, Planète + Thalassa
-37, 10921, 19.2E, AXN Deutschland
-1003, 10843, 4.0W, Yes 3
-30902, 12265, 0.8W, TLC Pan Regional
-1013, 10842, 0.4W, No dgr found
-708, 12245, 36.0E, JimJam Rossiya
-9301, 12168, 19.2E, No sid found
-30310, 11804, 0.8W, Spektrum Home
-15713, 10796, 13.0E, FilmBox Polska
-1022, 10842, 0.4W, No dgr found
-15904, 10911, 13.0E, Universal Channel Polska
-3507, 10834, 13.0E, Zest TV(23-05)
+13201, 11876, 23.5E, TV Nova
 9308, 12168, 19.2E, D17
-2211, 12015, 36.0E, Sankt Peterburg
-1015, 10842, 0.4W, No dgr found
-401, 12437, 36.0E, No sid found
-1008, 10842, 0.4W, No dgr found
-601, 11222, 0.4W, No dgr found
-9604, 12610, 19.2E, BeIn Sports Max 6
-609, 11222, 0.4W, No dgr found
-1130, 12054, 5.0E, No freq found
-1012, 10843, 4.0W, MGM Movies
-8008, 11817, 19.2E, Nickelodeon France
-10552, 12284, 13.0E, No sid found
-26005, 12207, 36.0E, TLC Russia
-21107, 12092, 36.0E, Amedia 1
-56201, 12476, 56.0E, No sid found
-7307, 12188, 13.0E, Nat Geo Wild Europe
-5401, 12148, 28.2E, Sky Sports 4 UK
-1100, 12054, 5.0E, No freq found
-2204, 12015, 36.0E, Match TV
-2017, 11977, 0.8W, HBO Czechia
-302, 11681, 13.0E, France 2
-31008, 12265, 36.0E, Mir
-9603, 12610, 19.2E, BeIn Sports Max 5
-52113, 11261, 28.2E, Star Gold UK
-130, 11914, 19.2E, Discovery Channel Deutschland
-9405, 12090, 19.2E, Non Stop People France
-9408, 12090, 19.2E, Disney Channel France +1
-1009, 10842, 0.4W, No dgr found
-17105, 11938, 36.0E, Viasat Nature HD(07-19)
+41, 11891, 30.0W, Canal + Acción
+53215, 11344, 28.2E, E! UK
+1920, 12608, 5.0E, No freq found
+1007, 12524, 39.1E, No dgr found
 14003, 11526, 13.0E, RSI La 1
-25030, 12190, 36.0E, Telekanal Zvezda
-1504, 12560, 85.0E, TV 1000 East
-9409, 12090, 19.2E, Planète + CI
-10806, 12284, 36.0E, Evrokino
-4007, 12394, 156.0E, Lifestyle Food
-56204, 12476, 56.0E, No sid found
-1818, 11977, 36.0E, No sid found
-5054, 11798, 23.5E, Sport 5(Czechia)
-15705, 10796, 13.0E, TVP Kultura
-7351, 12188, 13.0E, JimJam Polska
-305, 11681, 13.0E, France 5
-3508, 10834, 13.0E, Motowizja
-10510, 12284, 13.0E, HBO Polska
-814, 12322, 30.0W, TVI(Portugal)
-1150, 12054, 5.0E, No freq found
-3410, 11862, 5.0E, No freq found
-3420, 11862, 5.0E, No freq found
-14051, 11526, 13.0E, RSI La 1
-1005, 10842, 0.4W, No dgr found
-1222, 11920, 85.0E, Multimania
-6890, 11900, 5.0E, No freq found
-56410, 12399, 56.0E, No sid found
-13132, 12070, 23.5E, Minimax Czechia(06-20)
-14008, 11526, 13.0E, RTS Deux
-5500, 10803, 19.2E, Disney Channel Deutschland
-14104, 11823, 36.0E, Animal Planet Russia
-20507, 12456, 36.0E, VH1 Europe
-1503, 12560, 85.0E, TV 1000 Action(04-24)
-1208, 11920, 85.0E, Astrakhan 24
-32004, 12136, 156.0E, BeIn Sports Australia
-6, 11075, 13.0E, Boing Italia
-15260, 11258, 13.0E, No sid found
-1160, 12054, 5.0E, No freq found
-1409, 10902, 0.8W, No sid found
-30204, 11766, 0.8W, Nova Sport(Czechia)
-28655, 11739, 19.2E, MTV Dance
-10, 11727, 13.0E, Mediaset Italia 2
-14237, 11411, 13.0E, No sid found
-13768, 11727, 13.0E, Passion XXX
-7092, 10902, 0.8W, TV 12
-5650, 11934, 28.2E, Sky Movies Greats HD
-15708, 10796, 13.0E, TVP Seriale
-131, 11914, 19.2E, Sky Cinema
-317, 11278, 0.8W, C More Hits
-15210, 11258, 13.0E, Canal + Sport 2 Polska
-30111, 11727, 0.8W, Spektrum TV
-8902, 12640, 19.2E, La Chaîne Météo
-8906, 12640, 19.2E, Sport 365
-4804, 12188, 28.2E, At The Races UK
-3593, 10834, 13.0E, HBO 2 Polska
-118, 11914, 19.2E, No sid found
-14009, 11526, 13.0E, RSI La 2
-8905, 12640, 19.2E, Game One
-8903, 12640, 19.2E, June
-1113, 12040, 85.0E, TLC Russia
-10104, 12322, 36.0E, Kinoklub
-6810, 11900, 5.0E, No freq found
-28659, 11739, 19.2E, MTV Rocks
-13760, 11727, 13.0E, TGirls TV
-905, 11881, 36.0E, TNT Comedy
-8904, 12640, 19.2E, Girondins TV
-8907, 12640, 19.2E, Trace Urban
-6800, 11900, 5.0E, No freq found
-8901, 12640, 19.2E, No sid found
-27050, 12226, 36.0E, 5 Kanal(0h)
-606, 11222, 0.4W, No dgr found
-126, 12304, 19.2E, Syfy Deutschland
-27030, 11225, 36.0E, No sid found
-6880, 11900, 5.0E, No freq found
-13109, 11785, 36.0E, World Fashion Channel Russia
-15821, 11508, 13.0E, TVN(Poland)
-13763, 11727, 13.0E, SCT
-13766, 11727, 13.0E, Cento X Cento TV
-5037, 12398, 30.0W, No sid found
-8407, 12670, 19.2E, Nickelodeon 4Teen
-111, 11992, 19.2E, Disney Cinemagic Deutschland
-11931, 11082, 19.2E, Super RTL Deutschland
-15712, 10796, 13.0E, FilmBox Premium Polska
-7375, 12188, 13.0E, Fox Comedy Polska
-14210, 11411, 13.0E, Canal + Seriale
-3509, 10834, 13.0E, TVP ABC
-22, 11075, 13.0E, No freq found
-12852, 12722, 19.2E, RTBF La Deux
-1010, 10842, 0.4W, No dgr found
-1102, 10890, 0.4W, No dgr found
-28654, 11739, 19.2E, MTV Hits
-14073, 11973, 23.5E, Nova Cinema
-15037, 11449, 13.0E, TVP 1
-8405, 12670, 19.2E, TéléToon +
-710, 12245, 36.0E, SET Russia
-13767, 11727, 13.0E, Sexto Senso
-1211, 11920, 85.0E, Kurai TV
-14055, 11934, 23.5E, Eroxxx HD
-13074, 11278, 13.0E, No sid found
-1317, 10722, 0.4W, No dgr found
-1803, 11977, 36.0E, TV Centr Moskva
-8402, 12670, 19.2E, Canal J
-3505, 10834, 13.0E, TVP Sport
-15205, 11258, 13.0E, Nat Geo Wild Europe
-8408, 12670, 19.2E, Nickelodeon Junior France
-14002, 11526, 13.0E, RTS Un
-10205, 12380, 36.0E, Russkaja Noch(00-06)
-16113, 11900, 36.0E, Nashe Novoe Kino
-56205, 12476, 55.9E, No dgr found
-13061, 11278, 13.0E, Eurosport 1
-306, 11681, 13.0E, M6
-20104, 12130, 36.0E, MGM HD Russia
-2, 11075, 13.0E, Canale 5
-117, 12640, 85.0E, REN TV(0h)
-505, 12226, 0.8W, Nickelodeon Europe
-13077, 11278, 13.0E, No sid found
-2760, 12643, 0.8W, TV Markíza
-16106, 11900, 36.0E, Muz TV(Russia)
-4202, 12015, 0.8W, History HD Europe
-414, 12080, 7.0W, No freq found
-12884, 12722, 19.2E, No freq found
-920, 11960, 85.0E, Fine Living
-15714, 10796, 13.0E, FilmBox Family
-10509, 12284, 13.0E, Discovery Science Channel Polska
-31206, 12111, 0.8W, Dajto
-6080, 11739, 23.5E, NPO 2
-106, 12640, 85.0E, Match TV
-507, 12226, 0.8W, VH1 Europe
-6860, 11900, 4.9E, TV 1000 East
-15285, 11258, 13.0E, No sid found
-3502, 10834, 13.0E, No sid found
-10504, 12284, 13.0E, Travel Channel Europe
-10803, 12284, 36.0E, Illusion +
-3401, 11766, 13.0E, Rai 1
-15203, 11258, 13.0E, Eurosport 2 North-East
-12883, 12722, 19.2E, Hustler TV Europe
-9904, 12129, 19.2E, Brava HD
-8403, 12670, 19.2E, Foot +
-13761, 11727, 13.0E, Exotica TV
-2930, 12245, 5.0E, No freq found
-10303, 12399, 36.0E, Pyatnitsa!
-30206, 11766, 0.8W, CT 2
-13020, 11278, 13.0E, Canal + Polska
-13784, 11727, 13.0E, Pink' o TV
-2910, 12245, 5.0E, No freq found
-1218, 10925, 4.0W, Discovery Channel Middle East & Africa
-4306, 11934, 28.2E, Sky Movies Select HD
-56313, 12322, 55.9E, No dgr found
-409, 12437, 36.0E, 9 Volna
-30107, 11727, 0.8W, TV Markíza
-56507, 11167, 55.9E, No dgr found
-15830, 11508, 13.0E, TVN Fabula
-5145, 11798, 23.5E, Joj Cinema
-15706, 10796, 13.0E, CBS Drama Europe
-2900, 12245, 5.0E, No freq found
-5030, 11798, 23.5E, No sid found
-5053, 11798, 23.5E, Nickelodeon Europe
-5050, 11798, 23.5E, FilmBox Family
-517, 12120, 85.0E, Avto 24
-3108, 12265, 13.0E, Polsat Sport Extra
-30208, 11766, 0.8W, TV Barrandov
-5032, 11797, 23.5E, Discovery Channel Central Europe
-116, 12382, 19.2E, Sky Action
-4901, 12363, 23.5E, CT 1 Cechy
-6602, 12246, 19.2E, Disney Junior France
-3860, 12092, 5.0E, No freq found
-3890, 12092, 5.0E, No freq found
-6603, 12246, 19.2E, Syfy France
-6604, 12246, 19.2E, OCS geants
-15003, 11449, 13.0E, Investigation Discovery Europe
-15813, 11508, 13.0E, Puls 2
-3850, 12092, 5.0E, No freq found
-5038, 11798, 23.5E, TV Paprika
-113, 12382, 19.2E, No sid found
-4902, 12363, 23.5E, CT 2
-56607, 12245, 56.0E, No sid found
-102, 12640, 85.0E, Rossiya 1(0h)
-11112, 12341, 36.0E, Rusong TV
-30305, 11804, 0.8W, TV Nova
-309, 11681, 13.0E, W9
-15826, 11508, 13.0E, TVN 24
-2920, 12245, 4.9E, Lietuvos Rytas TV
-1111, 12040, 85.0E, Discovery Channel Russia
-5082, 11895, 23.5E, Spice(23-04)
-203, 12168, 30.0W, No sid found
-15, 12454, 30.0W, Telecinco
-12857, 12722, 19.2E, Club RTL
-5083, 11895, 23.5E, Viasat History
-31004, 12265, 36.0E, Mir 24
-7806, 2655, 107.7E, No dgr found
-3594, 10834, 13.0E, HBO Comedy Polska
-5075, 11895, 23.5E, TV Barrandov
-508, 12456, 36.0E, No sid found
-4904, 12363, 23.5E, CT Sport
-15206, 11258, 13.0E, Animal Planet HD
-13206, 11876, 23.5E, Prima Cool
-5051, 11798, 23.5E, FilmBox Premium Czechia
-419, 12437, 36.0E, Sarafan
-123, 12382, 19.2E, TNT Serie
-10802, 12284, 36.0E, Russkiy Illusion
-5151, 11798, 23.5E, Mnam TV
-132, 12382, 19.2E, Eurosport 1 Germany
-5084, 11895, 23.5E, Viasat Nature East
-5031, 11798, 23.5E, Film + Czechia
-9102, 11914, 28.2E, Disney Channel UK
-8504, 11568, 19.2E, Libido TV
-8505, 11568, 19.2E, OLTV
-5034, 11798, 23.5E, FilmBox Extra HD
-8503, 11568, 19.2E, NRJ Hits
-3524, 10834, 13.0E, TVP Historia
-11002, 11096, 13.0E, BeIn Sports Max 5
-8507, 11568, 19.2E, Onzéo
-11104, 12341, 36.0E, S TV
-4905, 12363, 23.5E, RTV 1(Slovakia)
-6605, 12246, 19.2E, Voyage
-1544, 11325, 0.8W, No sid found
-1403, 12246, 30.0W, No sid found
-453, 12246, 30.0W, Sport TV 4
-31003, 12265, 36.0E, Fine Living
-6601, 12246, 19.2E, No sid found
-4906, 12363, 23.5E, RTV 2(Slovakia)
-27001, 12226, 56.0E, STS(+4h)
-8506, 11568, 19.2E, OMTV
-13202, 11158, 13.0E, Polsat Play
-8501, 11568, 19.2E, No sid found
-3525, 10834, 13.0E, No sid found
-5071, 11895, 23.5E, No sid found
-6610, 12246, 19.2E, Seasons
-4907, 12363, 23.5E, TV Barrandov
-56621, 12245, 55.9E, No dgr found
-20612, 12476, 36.0E, VH1 Classic Europe
-10212, 12380, 36.0E, Auto Plus
-6606, 12246, 19.2E, Paramount Channel France
-13218, 11158, 13.0E, No sid found
-15828, 11508, 13.0E, Adventure
-30319, 11804, 0.8W, 
-13102, 11785, 36.0E, TV Centr Moskva
-8002, 12525, 23.5E, Prima
-11004, 12092, 0.8W, AXN Central Europe
-16111, 11900, 36.0E, TNV Planeta
-808, 11840, 85.0E, STS(+4h)
-10102, 12322, 36.0E, NTV Plus Futbol 1
-8007, 12524, 31.5E, No freq found
-15707, 10796, 13.0E, CBS Reality Polska
-13234, 11158, 13.0E, No sid found
-15822, 11508, 13.0E, TVN Style
-21106, 12092, 36.0E, Nuart TV
-3130, 12034, 5.0E, No freq found
-10204, 12380, 36.0E, India TV(Russia)
-10108, 12322, 36.0E, REN TV
-26002, 12207, 36.0E, National Geographic Channel HD Russia & Turkey
-15283, 11258, 13.0E, No sid found
-20106, 12130, 36.0E, Rossiya HD
-14203, 11411, 13.0E, Canal + Family Polska
-2201, 12015, 36.0E, No sid found
-10309, 12399, 36.0E, Telekanal Zvezda(0h)
-5085, 11895, 23.5E, National Geographic Channel Hungary & Czechia
-10310, 12399, 36.0E, Match TV
-20103, 12130, 36.0E, Sport 1(Russia)
+3007, 12478, 156.0E, CNN International Asia Pacific
+3800, 12092, 5.0E, No freq found
+718, 12245, 36.0E, GTRK Groznyj
+1402, 11800, 85.0E, TV 1000 Megahit HD
 1804, 11977, 36.0E, TNT(+2h)
-6201, 11876, 28.2E, No sid found
-13140, 12070, 23.5E, Telka
-13203, 11876, 23.5E, Nova Sport(Czechia)
-19122, 11996, 36.0E, Ocean TV
-951, 12399, 13.0E, RSI La 2
-8606, 12324, 19.2E, Tiji
-11108, 12341, 36.0E, Soversheno Sekretno TV
-6607, 12246, 19.2E, MCS Extrême
-3592, 10834, 13.0E, BBC Earth Polska
-19123, 11996, 36.0E, Telekanal Zvezda(+2h)
-26001, 12054, 36.0E, No sid found
-5033, 12398, 30.0W, No sid found
-406, 12398, 30.0W, AXN White Portugal
-2710, 11216, 0.8W, TV 4 Fakta
-8607, 12324, 19.2E, TMC
-15005, 12518, 156.0E, Sky Racing 1
-4446, 11293, 0.8W, TV 3 Sverige
-8604, 12324, 19.2E, France 4
-3033, 11421, 0.8W, No sid found
-56525, 12169, 55.9E, No dgr found
-20105, 12130, 36.0E, Perviy kanal(0h)
-3480, 11900, 0.8W, HBO Comedy Central Europe
-9205, 12522, 19.2E, Motors TV
-15702, 10796, 13.0E, Discovery Life Polska
-56606, 12245, 56.0E, No sid found
-7358, 12188, 13.0E, Superstacja
-30909, 12265, 0.8W, Private TV
-5613, 12207, 23.5E, National Geographic Channel HD Europe
-9206, 12522, 19.2E, Mélody
-12105, 12073, 36.0E, Discovery Channel Russia
-9208, 12522, 19.2E, Nollywood TV
-1405, 11800, 85.0E, Eurosport 2 North-East
-15009, 12518, 156.0E, Expo Channel
-8608, 12324, 19.2E, TV Breizh
-5009, 12148, 28.2E, British Eurosport 2
-3006, 11421, 0.8W, No sid found
-3037, 11421, 0.8W, No sid found
-56618, 12245, 56.0E, No sid found
-3030, 11421, 0.8W, No sid found
-3032, 11421, 0.8W, No sid found
-12102, 12073, 36.0E, HD Sport
-11105, 12341, 36.0E, RBK TV
-101, 11876, 19.2E, No sid found
-15825, 11508, 13.0E, No freq found
-9202, 12522, 19.2E, Equidia Life
-870, 12360, 30.0W, Sport TV 1
-725, 12207, 23.5E, HBO 2 Central Europe
-13133, 12070, 23.5E, Smíchov
-136, 11876, 19.2E, TNT Glitz
-20902, 11915, 23.5E, No freq found
-12106, 12073, 36.0E, MTV Live HD
-857, 10809, 0.8W, Vox(Norway)
-3, 12316, 91.5E, Sun TV(India)
-3510, 10834, 13.0E, Trace Urban
-15824, 11508, 13.0E, TVN Turbo
-19110, 11996, 36.0E, Russkij Extreme
-711, 12207, 23.5E, HBO Czechia
-1802, 11977, 36.0E, NTV(+2h)
-168, 11758, 19.2E, Motorvision TV
-5109, 11488, 13.0E, Eleven Sports Polska
-5103, 11837, 23.5E, TV Markíza
-712, 12207, 23.5E, HBO Comedy Central Europe
-7183, 11325, 0.8W, C More Action
-5106, 11837, 23.5E, RTV 2(Slovakia)
+14257, 11411, 13.0E, No sid found
 13222, 11158, 13.0E, No sid found
 13238, 11158, 13.0E, No sid found
-15827, 11508, 13.0E, TVN 7
-8010, 11817, 19.2E, Mezzo
-5150, 12110, 23.5E, JimJam Europe
-36, 11758, 19.2E, Syfy Deutschland
-5105, 11837, 23.5E, RTV 1(Slovakia)
-19121, 11996, 36.0E, Arm TV
-5104, 11837, 23.5E, TV Doma
-5611, 12207, 23.5E, Nat Geo Wild Europe
-5044, 12110, 23.5E, TV Markíza
-5101, 11837, 23.5E, TV Joj
-8807, 12012, 19.2E, Cine + Frisson
-3544, 10834, 13.0E, No sid found
-4302, 11934, 28.2E, No sid found
-8006, 11817, 19.2E, Histoire
-15711, 10796, 13.0E, Orange sport Polska
-7353, 12188, 13.0E, MTV Rocks
-2214, 12015, 36.0E, Astrakhan 24
-5102, 11837, 23.5E, Plus
-5046, 12110, 23.5E, TV Doma
-5061, 12110, 23.5E, Doku CS
-8808, 12012, 19.2E, Cine + Famiz
-8001, 11817, 19.2E, No sid found
-5043, 12110, 23.5E, History UK
-5041, 12110, 23.5E, Eurosport 2 Nederland
-128, 11876, 19.2E, E! Deutschland
-2215, 12015, 36.0E, Bollywood
-8805, 12012, 19.2E, Canal + Family France
-8806, 12012, 19.2E, Canal + Séries
-10813, 12284, 36.0E, Fox Life Russia
-17202, 10971, 13.0E, SRF Zwei
-16104, 11747, 4.9E, No freq found
-727, 12207, 23.5E, Spektrum International
-8804, 12012, 19.2E, Canal + Sport France
-30004, 10906, 19.2E, Antena 3(Spain)
-7160, 10777, 0.8W, Kanal 9(Sweden)
-26003, 12207, 36.0E, Amedia Premium HD
-21103, 12092, 36.0E, Sport 1(Russia)
-8803, 12012, 19.2E, Canal + Cinéma France
-21126, 12129, 23.5E, Vijf
-811, 12322, 30.0W, RTP 1
-21109, 12092, 36.0E, U
-30064, 11097, 19.2E, Canal + Toros
-728, 12207, 23.5E, Universal Channel Czechia
-30001, 10906, 19.2E, Movistar F1
-1215, 11920, 85.0E, Paramount Comedy Russia
-5058, 12110, 23.5E, Kino CS
-1402, 12246, 30.0W, No sid found
-5713, 12148, 28.2E, British Eurosport 1
-3504, 10834, 13.0E, AXN Spin Polska
+14237, 11411, 13.0E, No sid found
+1245, 12331, 160.0E, No sid found
+3009, 12478, 156.0E, Fox Sports News Channel
+3306, 10934, 0.8W, No sid found
+5009, 12148, 28.2E, British Eurosport 2
+105, 12130, 30.0W, RTP 3
+3005, 12478, 156.0E, Foxtel Digital Help
+9301, 12168, 19.2E, ARTE Français
+20105, 11127, 19.2E, No sid found
+30505, 12034, 0.8W, Sport 2 Czechia
+8501, 11568, 19.2E, French Lover TV(23-04)
+3001, 12478, 156.0E, Fox Sports 1 Australia
+215, 12168, 30.0W, TV Cine 3
+52185, 11261, 28.2E, Life OK UK
+52108, 11261, 28.2E, Star Plus UK
+30106, 11727, 0.8W, CT 1
+50381, 11081, 28.2E, No sid found
+8502, 11568, 19.2E, Numéro 23
+201, 12168, 30.0W, SIC
+50475, 11671, 28.2E, Zee Punjabi UK
+15283, 11258, 13.0E, No sid found
+10204, 12380, 36.0E, India TV(Russia)
+8504, 11568, 19.2E, Libido TV
+413, 12080, 85.0E, TNT(+3h)
+14008, 11526, 13.0E, RTS Deux
+12883, 12722, 19.2E, Hustler TV Europe
+1511, 11862, 36.0E, No sid found
+50460, 11671, 28.2E, Zee TV UK
+8505, 11568, 19.2E, OLTV
+8507, 11568, 19.2E, Onzéo
+14106, 11823, 36.0E, Nickelodeon HD
+1320, 11760, 85.0E, Evrokino
+1013, 12608, 160.0E, Discovery Channel New Zealand
+8506, 11568, 19.2E, OMTV
+31213, 12111, 0.8W, RTL +
+8502, 11567, 19.2E, Numéro 23
+127, 11992, 19.2E, 13th Street Deutschland
+1816, 11977, 36.0E, RTG TV
+30808, 12188, 0.8W, Travel Channel Europe
+15032, 11449, 13.0E, Discovery Channel Polska
+14207, 11411, 13.0E, Kuchnia +
+13108, 11158, 13.0E, Polsat Film
+14256, 11411, 13.0E, No sid found
+3593, 10834, 13.0E, HBO 2 Polska
+1816, 11823, 36.0E, No sid found
+10306, 12399, 36.0E, STS Moskva
+30109, 11727, 0.8W, Prima
+110, 11992, 19.2E, Sky Atlantic
+10306, 12245, 36.0E, No sid found
+130, 12130, 30.0W, JimJam Europe
+20105, 12130, 30.5E, No freq found
+14009, 11526, 13.0E, RSI La 2
+30806, 12188, 0.9W, No dgr found
+112, 11992, 19.2E, National Geographic Channel Deutschland
+30306, 11804, 0.8W, RTV 1(Slovakia)
+14236, 11411, 13.0E, No sid found
+411, 11096, 13.0E, BeIn Sports 2
+19105, 11996, 36.0E, Viasat Explore Russia
+111, 12130, 30.0W, Benfica TV 2
+11003, 11928, 156.0E, Fox Sports 5 Australia
+20894, 11915, 23.5E, Food Network EMEA
+1405, 11800, 85.0E, Eurosport 2 North-East
+11005, 11928, 156.0E, Discovery Turbo Australia
+17309, 10815, 13.0E, Baby TV Europe
+202, 12168, 30.0W, SIC Notícias
+12851, 12722, 19.2E, RTBF La Une
+11006, 11928, 156.0E, Esquire EMEA
+1107, 10890, 0.4W, No dgr found
+1102, 10890, 0.4W, No dgr found
+2033, 4161, 107.0E, No dgr found
+1806, 10976, 36.0E, No freq found
+14051, 11526, 13.0E, RSI La 1
+1102, 10890, 4.0W, Nickelodeon Israel
+419, 12437, 36.0E, Sarafan
+1404, 11800, 85.0E, Eurosport 1 International
+1164, 12358, 160.0E, Sky Movies Greats
+14206, 11411, 13.0E, Planete + Polska
+11007, 11928, 156.0E, No sid found
+30814, 12188, 0.8W, History Europe
+116, 12130, 30.0W, TV Cine 2
+11008, 11928, 156.0E, Disney Junior Australia
+10802, 12284, 36.0E, Russkiy Illusion
+30207, 11766, 0.8W, TV Joj
+8009, 12525, 23.5E, CT art(20-06)
+6350, 11958, 5.0E, No freq found
+4406, 11934, 28.2E, Sky Movies Crime & Thriller HD
+56429, 12399, 56.0E, No sid found
+20612, 12476, 36.0E, VH1 Classic Europe
+13109, 11158, 13.0E, Polsat News
+131, 12130, 30.0W, TV Cine 4
+4303, 11934, 19.2E, No sid found
+1001, 12608, 160.0E, The Box(New Zealand)
+14002, 11526, 13.0E, RTS Un
+5502, 11934, 28.2E, Sky Movies Drama & Romance HD
+2015, 11977, 0.8W, Eurosport 1
+30302, 11804, 0.8W, Sport 1 Czechia
+10306, 12245, 4.9E, No sid found
+13025, 11278, 13.0E, FilmBox Extra HD
+7318, 12188, 13.0E, AXN Polska
+30111, 11727, 0.8W, Spektrum TV
+56618, 12245, 56.0E, No sid found
+10306, 11398, 36.0E, No freq found
+30314, 11804, 0.8W, Prima Love
+10306, 11395, 36.0E, No freq found
+21108, 12092, 36.0E, Amedia Premium HD
+9207, 12522, 19.2E, TéléToon + 1
+9202, 12522, 19.2E, Equidia Life
+9203, 12522, 19.2E, Equidia Live
+9204, 12522, 19.2E, InfoSport +
+9205, 12522, 19.2E, Motors TV
+1406, 12246, 30.0W, No sid found
+456, 12246, 30.0W, Fox Portugal
+15207, 11258, 13.0E, Cinemax Central Europe
+9206, 12522, 19.2E, Mélody
+9201, 12522, 19.2E, Boomerang France
+9208, 12522, 19.2E, Nollywood TV
+413, 12437, 36.0E, 5 Kanal(+2h)
+7057, 11856, 23.5E, Vier
+7056, 11856, 23.5E, 2BE
+1808, 11977, 36.0E, History Russia
+1511, 12560, 85.0E, Eurosport 1 International
+1811, 11977, 36.0E, Outdoor Channel International
+814, 12322, 30.0W, TVI(Portugal)
+15706, 10796, 13.0E, CBS Drama Europe
+13106, 11158, 13.0E, Polsat Café
+14210, 11411, 13.0E, Canal + Seriale
+422, 12437, 36.0E, Boks TV
+401, 12437, 36.0E, Ru TV
+30705, 11938, 0.8W, HBO 2 Central Europe
+870, 12360, 30.0W, Sport TV 1
+13104, 11158, 13.0E, Polsat Sport
+14201, 11411, 13.0E, Canal + Film
 20505, 12456, 36.0E, TLC Russia
-30, 11075, 13.0E, No freq found
-452, 12246, 30.0W, Sport TV 2
-1250, 12322, 9.0E, TV 8 International
-5047, 12110, 23.5E, Eurosport 1 Benelux
-5067, 12110, 23.5E, Animal Planet Benelux
-19, 12726, 166.0E, Greek Cinema
-56302, 12322, 55.9E, No dgr found
-1006, 11747, 0.8W, The Fishing & Hunting Channel
-51088, 11141, 28.2E, Nick Jr Ireland
+811, 12322, 30.0W, RTP 1
+7111, 2565, 107.7E, No dgr found
+6340, 11958, 4.9E, TV 3 Lietuva
+20502, 12456, 36.0E, MTV Russia
+304, 12360, 30.0W, TV Globo Portugal
+8609, 12324, 19.2E, NT1
+6260, 11843, 5.0E, No freq found
+7111, 4096, 107.7E, No dgr found
+8010, 11817, 19.2E, Mezzo
+8001, 11817, 19.2E, BET International
+1001, 10843, 4.0W, Yes 1
+6301, 11376, 19.2E, BeIn Sports 1
+6321, 11376, 19.2E, No sid found
+8607, 12324, 19.2E, TMC
+56612, 12245, 56.0E, No sid found
+12852, 12722, 19.2E, RTBF La Deux
+5030, 11881, 5.0E, No freq found
+1007, 10843, 4.0W, Sport 1(Israel)
+11, 11075, 13.0E, Nickelodeon Europe
+605, 11222, 4.0W, Viva Plus
+56612, 12245, 55.9E, No dgr found
+1003, 10843, 4.0W, Yes 3
+1002, 10842, 0.4W, No dgr found
+412, 12437, 36.0E, Mir +3
+604, 11222, 0.4W, No dgr found
+1003, 10842, 0.4W, No dgr found
+10125, 12322, 36.0E, Blue Hustler Europe(22-04)
+56618, 12245, 55.9E, No dgr found
+8008, 11817, 19.2E, Nickelodeon France
+10, 12380, 5.0E, No freq found
+1008, 10843, 4.0W, Hop!
+1004, 10843, 4.0W, Yes 4
+306, 11681, 13.0E, M6
+308, 12360, 30.0W, Record Europa
+1024, 10842, 0.4W, No dgr found
+312, 11681, 13.0E, NRJ 12
+608, 11222, 4.0W, History Channel Israel
+601, 11222, 4.0W, Yes Israeli Cinema
+1004, 10842, 0.4W, No dgr found
+30902, 12265, 0.8W, TLC Pan Regional
+412, 11229, 0.8W, Discovery Channel Denmark
+1013, 10842, 0.4W, No dgr found
+1013, 10843, 4.0W, Sport 2(Israel)
+14804, 12322, 13.0E, Nashe Lubimoe Kino
+1005, 10842, 0.4W, No dgr found
+1009, 10843, 4.0W, Disney Channel Israel
+1022, 10842, 0.4W, No dgr found
+8605, 12324, 19.2E, NRJ 12
+270, 12380, 4.9E, Dozhd
+270, 12380, 5.0E, No freq found
+1007, 10842, 0.4W, No dgr found
+4804, 12188, 28.2E, At The Races UK
+13101, 11158, 13.0E, Polsat
+15004, 11449, 13.0E, Discovery Turbo Xtra Polska
+1005, 10843, 4.0W, Baby TV Europe
+4814, 10902, 0.8W, TV 4 Sport
+4814, 10903, 0.8W, TV 4 Sport
+10212, 12380, 36.0E, Auto Plus
+5033, 12398, 30.0W, No sid found
+1, 11075, 13.0E, Italia 1
+406, 12398, 30.0W, AXN White Portugal
+321, 11278, 0.8W, No sid found
+4009, 12394, 156.0E, ESPN Australia
+14203, 11411, 13.0E, Canal + Family Polska
+3401, 11766, 13.0E, Rai 1
+1014, 10843, 4.0W, Channel 20
+15707, 10796, 13.0E, CBS Reality Polska
+6321, 11377, 19.2E, No sid found
+4019, 12394, 156.0E, No sid found
+6301, 11377, 19.2E, BeIn Sports 1
+10125, 12169, 4.9E, No sid found
+1409, 10758, 0.4W, No dgr found
+13107, 11158, 13.0E, Polsat News 2
+308, 11681, 13.0E, D8
+309, 11681, 13.0E, W9
+7306, 12188, 13.0E, Eurosport 1 Polska
+6301, 11372, 19.2E, No freq found
+951, 12399, 13.0E, RSI La 2
+4005, 12394, 156.0E, Animal Planet Australia
+30213, 11766, 0.8W, Minimax Hungary(06-20)
+1415, 10758, 4.0W, RTV International Israel
+6321, 11372, 19.2E, No freq found
+1409, 10758, 4.0W, 5 Live
+8003, 12525, 23.5E, CT 1 Cechy
+20503, 12456, 36.0E, Nick Jr Polska
+8004, 12525, 23.5E, CT 2
+4, 11919, 13.0E, Iris
+8001, 12525, 23.5E, CT 1 Jizní Morava(18.00-18.30)
+1, 11919, 13.0E, Italia 1
+6503, 12441, 19.2E, M6 Music
+12857, 12722, 19.2E, Club RTL
+32004, 12136, 156.0E, BeIn Sports Australia
+4, 11919, 12.8E, No dgr found
+7010, 11886, 156.0E, Discovery Channel Australia +2
+11108, 12341, 36.0E, Soversheno Sekretno TV
+11104, 12341, 36.0E, S TV
+6506, 12441, 19.2E, OCS max
+20503, 11455, 36.0E, No freq found
+5030, 12398, 30.0W, No sid found
+13140, 12070, 23.5E, Telka
+401, 12398, 30.0W, AXN Black Portugal
+20503, 11456, 36.0E, No freq found
+7114, 11075, 180.0E, No sid found
+7003, 11886, 156.0E, Foxtel Movies Action
+30415, 11996, 0.8W, Film Mánia
+2, 11919, 13.0E, Canale 5
+7002, 11886, 156.0E, Foxtel Movies Comedy
+28659, 11739, 19.2E, MTV Rocks
+10305, 12399, 36.0E, Rossiya K(0h)
+6501, 12441, 19.2E, Nat Geo Wild France
+7004, 11886, 156.0E, Foxtel Movies Romance
+7008, 11886, 156.0E, MTV Live HD Australia
+19114, 11996, 36.0E, EuroNews
+6507, 12436, 19.2E, No freq found
 6507, 12441, 19.2E, Kombat Sport
-31009, 12265, 36.0E, Perviy Meteo
-1404, 12246, 30.0W, No sid found
-9007, 12136, 156.0E, A&E; Australia
-454, 12246, 30.0W, National Geographic Channel HD Europe
-51089, 11141, 28.2E, Nick Jr Too UK
+15210, 11258, 13.0E, Canal + Sport 2 Polska
+17104, 11938, 36.0E, TV 1000 Premium HD
+15711, 10796, 13.0E, Orange sport Polska
+505, 12226, 0.8W, Nickelodeon Europe
+17101, 11785, 36.0E, No sid found
+14073, 11973, 23.5E, Nova Cinema
+1508, 11862, 36.0E, No sid found
+13109, 11785, 36.0E, World Fashion Channel Russia
+1, 11512, 16.0E, Unire TV 1
+14055, 11934, 23.5E, Eroxxx HD
+17101, 11938, 36.0E, NTV Plus Futbol 3
+2204, 12015, 36.0E, Match TV
+19108, 11996, 36.0E, Viasat Sport East
+9008, 12207, 19.2E, France 5
+13203, 11158, 13.0E, TV 4(Poland)
+13219, 11158, 13.0E, No sid found
+13023, 11278, 13.0E, National Geographic Channel Polska
+15260, 11258, 13.0E, No sid found
+5153, 11488, 13.0E, No sid found
+15709, 10796, 13.0E, AXN Spin Polska
+13208, 11876, 23.5E, TV Joj
+56501, 12169, 56.0E, No sid found
+10813, 12284, 36.0E, Fox Life Russia
+19, 12726, 166.0E, Greek Cinema
+11105, 12183, 36.0E, No freq found
+13210, 11876, 23.5E, Rik
+311, 11681, 13.0E, NT1
+28657, 11739, 19.2E, VH1 Classic Europe
+13133, 12070, 23.5E, Smíchov
+11105, 12341, 36.0E, RBK TV
+10109, 12322, 36.0E, Kto est kto
+31206, 12111, 0.8W, Dajto
+507, 12226, 0.8W, VH1 Europe
+31004, 12265, 36.0E, Mir 24
+13204, 11876, 23.5E, Fanda
+13103, 11158, 13.0E, TV 4(Poland)
+12103, 12073, 36.0E, HD Life
+12101, 12073, 36.0E, HD Kino
+26005, 12207, 36.0E, TLC Russia
+19103, 11996, 36.0E, TV 1000 Action
+15038, 11449, 13.0E, Romance TV Polska
+406, 12080, 7.0W, No freq found
+20917, 12129, 23.5E, Penthouse TV(22-06)
+20101, 12130, 36.0E, NTV Plus Futbol 2
+509, 12120, 85.0E, Mult
+14104, 11823, 36.0E, Animal Planet Russia
+15202, 11258, 13.0E, TVP HD
+406, 12080, 85.0E, Nickelodeon CIS
+509, 12120, 83.0E, No freq found
+56506, 12169, 56.0E, No sid found
+13205, 11876, 23.5E, Nova Cinema
+409, 11229, 0.8W, Discovery Channel Sweden
+15702, 10796, 13.0E, Discovery Life Polska
+13112, 11785, 36.0E, Playboy TV Europe(23-05)
+1307, 10722, 4.0W, JimJam Europe
+17102, 11938, 36.0E, TV 1000 Comedy HD
+6080, 11804, 5.0E, No freq found
+9008, 12136, 156.0E, No sid found
+12030, 12188, 19.2E, RTL Living Deutschland
+30107, 11727, 0.8W, TV Markíza
+19103, 11843, 36.0E, No sid found
+13226, 11158, 13.0E, No sid found
+3510, 10834, 13.0E, Trace Urban
+56317, 12322, 56.0E, No sid found
+6060, 11804, 5.0E, No freq found
+114, 12640, 85.0E, TNT(0h)
+26001, 12207, 36.0E, Nash Futbol
+20614, 12476, 36.0E, Cartoon Network Russia & South East Europe
+20614, 11469, 36.0E, No freq found
+1021, 12608, 160.0E, E! Australia
+5145, 11798, 23.5E, Joj Cinema
+30319, 11804, 0.8W, No sid found
+5145, 11797, 23.5E, Joj Cinema
+6, 11075, 13.0E, Boing Italia
+5053, 11798, 23.5E, Nickelodeon Europe
+30305, 11804, 0.8W, TV Nova
+5053, 11797, 23.5E, Nickelodeon Europe
+5030, 11798, 23.5E, Disney Channel Hungary & Czechia
+15708, 10796, 13.0E, TVP Seriale
+30208, 11766, 0.8W, TV Barrandov
+5031, 11798, 23.5E, Film + Czechia
+5034, 11798, 23.5E, FilmBox Extra HD
+4902, 12363, 23.5E, CT 2
+5030, 11797, 23.5E, Disney Channel Hungary & Czechia
+5031, 11797, 23.5E, Film + Czechia
+5075, 11895, 23.5E, TV Barrandov
+5038, 11798, 23.5E, TV Paprika
+5034, 11797, 23.5E, FilmBox Extra HD
+6090, 11804, 5.0E, No freq found
+5050, 11798, 23.5E, FilmBox Family
+722, 12245, 36.0E, Dom Kino Premium
+5038, 11797, 23.5E, TV Paprika
+20616, 12476, 36.0E, Discovery Science Channel
+5050, 11797, 23.5E, FilmBox Family
+10307, 12399, 36.0E, Rossiya 24
+4901, 12363, 23.5E, CT 1 Cechy
+411, 12080, 85.0E, Sarafan
+3420, 11389, 0.8W, Disney Channel Norge
+4904, 12363, 23.5E, CT Sport
+17026, 10778, 0.8W, No sid found
+30206, 11766, 0.8W, CT 2
+3524, 10834, 13.0E, TVP Historia
+3525, 10834, 13.0E, No sid found
+5037, 11798, 23.5E, Sport 2 Czechia
+17026, 10777, 0.8W, No sid found
+4202, 12015, 0.8W, History HD Europe
+20615, 12476, 36.0E, Discovery Turbo Xtra East Europe
+5037, 11797, 23.5E, Sport 2 Czechia
+5082, 11895, 23.5E, Spice(23-04)
+21101, 12092, 36.0E, NTV Plus Basketbol
+5051, 11798, 23.5E, FilmBox Premium Czechia
+9505, 12699, 19.2E, MultiSports 4
+17202, 10971, 13.0E, SRF Zwei
+5085, 11895, 23.5E, National Geographic Channel Hungary & Czechia
+13102, 11785, 36.0E, TV Centr Moskva
+2205, 10809, 0.8W, Kanal 5(Sweden)
+5051, 11797, 23.5E, FilmBox Premium Czechia
+11107, 12341, 36.0E, Nostalgia
+30608, 12073, 0.8W, Hír TV
+13210, 11158, 13.0E, Polsat 2
+4905, 12363, 23.5E, RTV 1(Slovakia)
+11001, 11096, 13.0E, MCS Tennis
+4907, 12363, 23.5E, TV Barrandov
+5032, 12398, 30.0W, No sid found
+5083, 11895, 23.5E, Viasat History
+405, 12398, 30.0W, Travel Channel Europe
+418, 12692, 13.0E, Gulli
+4909, 12363, 23.5E, Barrandov Plus
+19118, 11996, 36.0E, OTR
+9903, 12129, 19.2E, Golf +
+3110, 12265, 13.0E, Cinemax 2 Central Europe
+9901, 12129, 19.2E, Discovery Showcase HD
 17203, 10971, 13.0E, RTS Un
-208, 12168, 30.0W, Motors TV
-6310, 11958, 5.0E, No freq found
-15717, 10796, 13.0E, FilmBox Action HD
+5036, 12398, 30.0W, No sid found
+403, 12398, 30.0W, Fox Crime Portugal
+4906, 12363, 23.5E, RTV 2(Slovakia)
+20616, 12322, 36.0E, No sid found
+4901, 12363, 19.2E, No sid found
+21110, 12092, 36.0E, Telekanal 2x2
+416, 12437, 36.0E, RGVK Dagestan
+3113, 12265, 13.0E, No sid found
+20103, 12130, 36.0E, Sport 1(Russia)
+11004, 12092, 0.8W, AXN Central Europe
+9903, 12124, 19.2E, No freq found
+410, 12437, 36.0E, TRK Sever
+11004, 12090, 0.8W, AXN Central Europe
+9901, 12124, 19.2E, No freq found
+13101, 11785, 36.0E, KHL TV
+13110, 11158, 13.0E, Polsat 2
+17204, 10971, 13.0E, RTS Deux
+711, 11720, 85.0E, Domashniy(0h)
+7325, 11137, 13.0E, Crime + Investigation UK
+10307, 11394, 19.2E, No sid found
+16105, 11900, 36.0E, Che(0h)
+9908, 12124, 19.2E, No freq found
+16105, 10898, 36.0E, No freq found
+10307, 11397, 19.2E, No freq found
+9908, 12128, 19.2E, Cartoon Network France
+15033, 11449, 13.0E, N Sport +
+1409, 10902, 0.8W, SVT 2
+1409, 10903, 0.8W, SVT 2
+9905, 12124, 19.2E, No freq found
+9905, 12129, 19.2E, Téva
+1404, 10934, 0.8W, C More Sport
+9905, 12128, 19.2E, Téva
+1805, 11977, 36.0E, Moya Planeta
+15902, 10911, 13.0E, Polsat Film
+3114, 12265, 13.0E, No sid found
+2108, 11216, 0.8W, Sjuan
+3106, 12265, 13.0E, TVP 2
+3116, 12265, 13.0E, No sid found
+13831, 11240, 13.0E, Eurosport 1
+22, 11075, 13.0E, No sid found
+3109, 12265, 13.0E, AXN Polska
+4402, 10719, 13.0E, TVP Sport
+1301, 11760, 85.0E, Telekanal Futbol
+2, 11075, 13.0E, Canale 5
+7303, 12188, 13.0E, AXN Black Polska
+920, 11881, 36.0E, TNT(0h)
+10510, 12284, 13.0E, HBO Polska
+15907, 10911, 13.0E, Polsat News
+7302, 12188, 13.0E, AXN White Polska
+17024, 12285, 19.2E, XXL(22.30-03.00)
+17054, 12285, 19.2E, No sid found
+7354, 12188, 13.0E, ATM Rozrywka
+10511, 12284, 13.0E, Disney Junior Türkiye & Polska
+10503, 12284, 13.0E, Nat Geo People
+505, 12120, 85.0E, Nauka 2.0
+116, 12640, 85.0E, Muzhskoy
+27015, 12226, 36.0E, NTV(0h)
+506, 12120, 85.0E, Moya Planeta
+13900, 12322, 13.0E, Dorcel TV
+7360, 12188, 13.0E, Polsat Sport News
+3111, 12265, 13.0E, Fox Polska
+3117, 12265, 13.0E, No sid found
+3491, 3780, 115.5E, CCTV 6
+309, 12000, 85.0E, No sid found
+14604, 11117, 13.0E, BBC Lifestyle Polska
+117, 12640, 85.2E, No dgr found
+4806, 10892, 13.0E, Teletoon + HD Polska(06-21)
+3103, 12265, 13.0E, Fox Comedy Polska
+3115, 12265, 13.0E, No sid found
+117, 12640, 85.0E, REN TV(0h)
+807, 11840, 85.0E, NTV(+3h)
+5035, 12398, 30.0W, No sid found
+410, 12398, 30.0W, Fox Life Portugal
+1403, 12246, 30.0W, No sid found
+453, 12246, 30.0W, Sport TV 4
+1406, 11800, 85.0E, Zhivaya Priroda
+30068, 11097, 19.2E, Multideporte 6
+30064, 11097, 19.2E, Canal + Toros
+3119, 12265, 13.0E, History Europe
+4804, 10892, 13.0E, Kuchnia +
+30069, 11097, 19.2E, Multideporte 4
+64, 1297, -22.2W, No dgr found
+0, 62720, -22.2W, No dgr found
+0, 54784, -22.2W, No dgr found
+160, 1553, -22.2W, No dgr found
+0, 62976, -22.2W, No dgr found
+301, 12000, 85.0E, Ru TV
+708, 11720, 85.0E, TNT Comedy
+30070, 11097, 19.2E, Multideporte 7
+30006, 10906, 19.2E, Telecinco
+29804, 11317, 19.2E, Canal + Acción
+30006, 10905, 19.2E, Telecinco
+29803, 11317, 19.2E, Disney Junior España
+29900, 11436, 19.2E, Canal + Estrenos
+30007, 10906, 19.2E, La Sexta
+8209, 12597, 13.0E, CNN Radio
+30901, 11258, 19.2E, Fox Life España
+30906, 11258, 19.2E, No sid found
+30005, 10906, 19.2E, Cuatro
+30912, 11258, 19.2E, Comedy Central España
+30913, 11258, 19.2E, No sid found
+29858, 10758, 19.2E, MTV España
+1405, 12246, 30.0W, No sid found
+455, 12246, 30.0W, AXN Portugal
+1603, 11872, 85.0E, Perviy kanal(+2h)
+713, 11720, 85.0E, Muz TV(0h)
+30003, 10906, 19.2E, AMC España
+30602, 10876, 19.2E, Odisea
+414, 12080, 85.0E, Perviy kanal(+4h)
+701, 11720, 85.0E, Kanal Disney(0h)
+4960, 11179, 13.0E, Private TV
+463, 12692, 13.0E, Science & Vie TV
+30851, 11126, 19.2E, TNT España
+30856, 11126, 19.2E, No sid found
+5108, 11488, 13.0E, No sid found
 29903, 11435, 19.2E, Canal + Xtra
 29908, 11435, 19.2E, No sid found
 29912, 11435, 19.2E, No sid found
-29951, 10817, 19.2E, Canal + Fútbol
-3010, 11421, 0.8W, No sid found
-29960, 10817, 19.2E, No sid found
-10208, 12380, 36.0E, Muzhskoye Kino
-56307, 12322, 56.0E, No sid found
-6211, 11876, 28.2E, Quest
-31006, 12265, 36.0E, 5 Kanal(0h)
-30913, 11258, 19.2E, No sid found
-9103, 11914, 28.2E, Disney Junior UK
-30400, 11038, 19.2E, Canal + Estrenos
-7301, 12188, 13.0E, No sid found
-4416, 10719, 13.0E, Discovery Channel Polska
-6501, 12441, 19.2E, No sid found
-7174, 12015, 0.8W, BBC Earth Nordic
-29952, 10818, 19.2E, Canal + Acción
-30906, 11258, 19.2E, No sid found
-9608, 10744, 0.1W, No dgr found
-5562, 12266, 28.2E, NickToons UK
-17204, 10971, 13.0E, RTS Deux
-56405, 11397, 56.0E, No freq found
-5564, 12266, 28.2E, Baby TV Europe
-13138, 12070, 23.5E, TV Nova
-215, 12168, 30.0W, TV Cine 3
-29900, 11436, 19.2E, Canal + Estrenos
-4304, 11934, 28.2E, Sky Movies Sci-Fi & Horror HD
-13108, 11158, 13.0E, Polsat Film
-15202, 11258, 13.0E, TVP HD
-4090, 11823, 0.8W, Pro TV
-702, 12245, 36.0E, Avto 24
-7053, 11856, 23.5E, Crime & Investigation Network Nederland
-53200, 11344, 28.2E, E! Ireland
-6506, 12441, 19.2E, OCS max
-52108, 11261, 28.2E, Star Plus UK
-6340, 11958, 5.0E, No freq found
-1025, 10934, 0.8W, No sid found
-6505, 12441, 19.2E, Série Club
-30006, 10906, 19.2E, Telecinco
-10207, 12380, 36.0E, Mnogo TV
-52440, 11582, 28.2E, Discovery Shed
-29815, 11317, 19.2E, AXN España
-4808, 12188, 28.2E, MUTV
-29804, 11317, 19.2E, Canal + Acción
-29964, 10817, 19.2E, Canal Hollywood España
-50460, 11671, 28.2E, Zee TV UK
-29965, 10817, 19.2E, No sid found
-52270, 11307, 28.2E, Movies 24 UK +
-124, 11332, 19.2E, Fox Deutschland
-29902, 11435, 19.2E, Viajar(Spain)
-29907, 11435, 19.2E, No sid found
-17054, 12285, 19.2E, No sid found
-17024, 12285, 19.2E, XXL(22.30-03.00)
-6503, 12441, 19.2E, M6 Music
-6510, 12441, 19.2E, Piwi +
-455, 12246, 30.0W, AXN Portugal
-6370, 11958, 5.0E, No freq found
-17201, 10971, 13.0E, SRF 1
-30752, 10935, 19.2E, Nickelodeon Iberia
-30757, 10935, 19.2E, No sid found
-56619, 11244, 55.9E, No dgr found
-1401, 12246, 30.0W, No sid found
-451, 12246, 30.0W, Sport TV 1
-30802, 10729, 19.2E, Canal + Liga
-50415, 11671, 28.2E, ARY Digital UK
-15709, 10796, 13.0E, AXN Spin Polska
-30659, 10979, 19.2E, Telecinco
-15033, 11449, 13.0E, N Sport +
-14257, 11411, 13.0E, No sid found
-61303, 11464, 19.2E, Sixx Deutschland
-30809, 10729, 19.2E, No sid found
-29852, 10758, 19.2E, Baby TV Europe
-15004, 11449, 13.0E, Discovery Turbo Xtra Polska
-51084, 11141, 28.2E, Comedy Central Ireland
-29803, 11318, 19.2E, Disney Junior España
-30753, 10935, 19.2E, National Geographic Channel HD Europe
-30656, 10979, 19.2E, TVE La 1 Madrid
-30761, 10935, 19.2E, No sid found
-52001, 11225, 28.2E, Sony Max UK
-30605, 10876, 19.2E, National Geographic Channel España
-50475, 11671, 28.2E, Zee Punjabi UK
-7079, 10778, 0.8W, TV 2 Lorry
-312, 11681, 13.0E, NRJ 12
-14207, 11411, 13.0E, Kuchnia +
-30852, 11127, 19.2E, Nat Geo Wild Europe
-19105, 11996, 36.0E, Viasat Explore Russia
-231, 12172, 30.0W, A Bola TV
-5563, 12266, 28.2E, Nick Jr UK
-53276, 11344, 28.2E, E! UK +1
-29860, 10758, 19.2E, Movistar F1
-216, 12600, 85.0E, Gulli
-206, 10934, 0.8W, No sid found
-30603, 10876, 19.2E, Playboy TV Iberia
-420, 12437, 36.0E, Strana
-30800, 10729, 19.2E, AXN España
-30806, 10729, 19.2E, No sid found
-31202, 12111, 0.8W, Viasat 3
-225, 12168, 30.0W, Disney Channel Portugal
-6210, 11843, 5.0E, No freq found
-30005, 10906, 19.2E, Cuatro
-19102, 11996, 36.0E, TV 1000 East
-29816, 11317, 19.2E, Canal + España
-13106, 11785, 36.0E, Telecafé(Russia)
-29805, 11317, 19.2E, Canal + Comedia
-6250, 11843, 5.0E, No freq found
-29961, 10817, 19.2E, No sid found
-30222, 11686, 19.2E, Discovery Max
-11111, 12341, 36.0E, Bridge TV
-270, 12380, 4.9E, Dozhd
-30850, 11127, 19.2E, Canal + Series
-30621, 10876, 19.2E, No sid found
-30904, 12265, 0.8W, Viasat Explore East(05-23)
-6260, 11843, 5.0E, No freq found
-11109, 12341, 36.0E, Sport Plus(Russia)
-20897, 11915, 23.5E, No freq found
-415, 12080, 85.0E, Russkiy Roman
-20503, 12456, 36.0E, Nick Jr Polska
-30203, 11766, 0.8W, Film + Hungary
-30358, 10788, 19.2E, Canal + Series
-30509, 11156, 19.2E, A&E; Iberia
-61301, 11464, 19.2E, Pro Sieben Deutschland
-1205, 10925, 4.0W, Knesset Channel
-15038, 11449, 13.0E, Romance TV Polska
-14239, 11411, 13.0E, No sid found
-14209, 11411, 13.0E, Ale Kino +
-4319, 11393, 13.0E, TVN Turbo
-210, 12168, 30.0W, Odisseia
-13209, 11876, 23.5E, Plus
-23, 12032, 19.2E, Sky Krimi
-30658, 10979, 19.2E, TVE La 2
-5202, 12168, 23.5E, Wau TV
-30851, 11127, 19.2E, TNT España
-8, 11720, 19.2E, No sid found
-20835, 11915, 23.5E, Fine Living
-28, 11720, 19.2E, Disney XD Deutschland
-311, 11681, 13.0E, NT1
-5, 11075, 13.0E, Viva Polska
-30860, 11126, 19.2E, Canal + España
-30002, 10906, 19.2E, Movistar Moto GP
-15909, 10911, 13.0E, Eurosport 1 Polska
-413, 12437, 36.0E, 5 Kanal(+2h)
-30209, 11686, 19.2E, Real Madrid TV Español
-12010, 12638, 156.0E, Nick Jr Australia
-5521, 12110, 28.2E, Cartoonito UK(05-21)
-29910, 11435, 19.2E, Canal + Deportes 2 HD
-30504, 12034, 0.8W, RTL Klub
-29911, 11435, 19.2E, No sid found
-27009, 12226, 56.0E, NTV(+3h)
-12007, 12638, 156.0E, Cartoon Network Australia
-229, 12168, 30.0W, Trace Urban
-9, 11720, 19.2E, Sky Action
-10209, 12380, 36.0E, Kuhnya TV
-12009, 12638, 156.0E, Discovery Science Channel Southeast Asia
-30514, 11156, 19.2E, TVI Internacional
-4308, 11934, 28.2E, Sky Movies Disney HD
-9106, 11914, 28.2E, Disney Junior UK +1
-21110, 12092, 36.0E, Telekanal 2x2
-12008, 12638, 156.0E, E! Australia
-30661, 10979, 19.2E, Canal + Xtra
-310, 11681, 13.0E, TMC
-14255, 11411, 13.0E, No sid found
-25, 11075, 13.0E, No freq found
-45, 11075, 13.0E, No freq found
-30662, 10979, 19.2E, No sid found
-17514, 12303, 13.0E, Equidia Live
-12003, 12638, 156.0E, Nat Geo People Australia and New Zealand
-140, 11171, 19.2E, RTL Crime Deutschland
-13201, 11876, 23.5E, TV Nova
-30853, 11126, 19.2E, TCM España
-30858, 11126, 19.2E, No sid found
-12853, 12722, 19.2E, RTBF La Trois
-29806, 11317, 19.2E, Canal + Dcine
-3520, 10834, 13.0E, Sport Klub Polska
-30507, 11156, 19.2E, Caza y Pesca
-4911, 11303, 19.2E, ORF Eins
-603, 12476, 36.0E, No sid found
-30903, 11258, 19.2E, Canal + Golf
-30908, 11258, 19.2E, No sid found
-22010, 12689, 156.0E, Lifestyle Home
-30907, 11258, 19.2E, No sid found
-10203, 12380, 36.0E, Komedia TV
-22007, 12689, 156.0E, 111 Greats
-4102, 12015, 0.8W, No sid found
-14235, 11411, 13.0E, No sid found
-14205, 11411, 13.0E, Teletoon + HD Polska
-61201, 10832, 19.2E, Vox Deutschland
-30407, 11038, 19.2E, TCM España
-212, 12168, 30.0W, Sport TV 3
-56422, 12399, 56.0E, No sid found
-6302, 11376, 19.2E, BeIn Sports 2
-6322, 11376, 19.2E, No freq found
-22009, 12689, 156.0E, No sid found
-56613, 12245, 56.0E, No sid found
-30220, 11685, 19.2E, Canal + Deportes 2 HD
-30754, 10935, 19.2E, Canal + Deportes
-31204, 12111, 0.8W, CT Sport
-29967, 10817, 19.2E, No sid found
-30760, 10935, 19.2E, No sid found
-30750, 10936, 19.2E, Mezzo Live HD
-9505, 12699, 19.2E, MultiSports 4
-213, 12172, 30.0W, Venus(Argentina)
-30007, 10906, 19.2E, La Sexta
-61300, 11464, 19.2E, Sat. 1 Deutschland
-107, 12304, 19.2E, Sky Hits
-20615, 12476, 36.0E, Discovery Turbo Xtra East Europe
-2407, 11325, 0.8W, Boomerang Nordic
-22001, 12689, 156.0E, Sky News Australia
-7080, 11823, 5.0E, No freq found
-33113, 12535, 95.0E, No sid found
-242, 12304, 19.2E, No sid found
-108, 12304, 19.2E, Sky Sport News HD
-7050, 11823, 5.0E, No freq found
-29909, 11435, 19.2E, No sid found
-7349, 12188, 13.0E, Disney XD Polska
-3506, 10834, 13.0E, Discovery Historia
-4, 11919, 13.0E, Iris
-29809, 11317, 19.2E, AXN White España
-30755, 10935, 19.2E, No sid found
-410, 11096, 13.0E, No sid found
-29950, 10817, 19.2E, Fox España
-29956, 10817, 19.2E, No sid found
-1801, 11977, 36.0E, No sid found
-54220, 11464, 28.2E, AIT International
-7, 12643, 16.0E, Acasa TV
-29807, 11317, 19.2E, Fox España
-24, 11075, 13.0E, No freq found
-214, 12168, 30.0W, TV Cine 1
-13207, 11876, 23.5E, Dajto
-204, 12168, 30.0W, Syfy Universal Portugal
-13303, 11273, 19.2E, ORF 2 Burgenland(19.00-19.30)
-30606, 10876, 19.2E, Canal + Fútbol
-50365, 11081, 28.2E, BT Sport 1
-27, 12032, 19.2E, RTL Crime Deutschland
-458, 12245, 30.0W, Benfica TV 1
-20894, 11915, 23.5E, Food Network EMEA
-30801, 10729, 19.2E, Canal + Comedia
-30807, 10729, 19.2E, No sid found
-6608, 12246, 19.2E, France Ô
-1506, 11862, 36.0E, No sid found
-301, 11681, 13.0E, No sid found
-30003, 10906, 19.2E, AMC España
-7030, 11856, 23.5E, VTM
-9006, 12207, 19.2E, Planète +
-30819, 10729, 19.2E, TVE La 1 Madrid
-3590, 10834, 13.0E, BBC HD Polska & Türkiye
-9004, 12207, 19.2E, Paris Première
-3407, 11309, 0.8W, TV 3 Sverige
-9504, 12699, 19.2E, MultiSports 3
-20604, 11172, 95.0E, Zee Classic
-7467, 10949, 13.0E, Cartoon Network Central & Eastern Europe
-6609, 12246, 19.2E, Gulli
-2005, 12358, 156.0E, Fox Sports 3 Australia
-14105, 11823, 36.0E, NTV Plus Futbol 1
-9005, 12207, 19.2E, Eurosport 1
-14, 12032, 19.2E, Discovery Channel Deutschland
-10808, 12284, 36.0E, No sid found
-16008, 11762, 156.0E, No sid found
-30608, 10876, 19.2E, Calle 13
-17917, 10809, 0.8W, No sid found
-61205, 10832, 19.2E, RTL 2 Deutschland
-233, 12168, 30.0W, Chelsea TV(18-01)
-7357, 12188, 13.0E, TV 6(Poland)
-16009, 11762, 156.0E, No sid found
-30680, 10979, 19.2E, Nat Geo Wild España
-4303, 11934, 28.2E, Sky Movies Comedy HD
-61200, 10832, 19.2E, RTL Deutschland
-2007, 12358, 156.0E, Discovery Channel Australia
-30857, 11126, 19.2E, No sid found
-13900, 12322, 13.0E, Dorcel TV
-205, 12168, 30.0W, Sport TV 2
-2002, 12358, 156.0E, No sid found
-30513, 11156, 19.2E, Historia España
-9001, 12207, 19.2E, No sid found
-2010, 12358, 156.0E, FX Australia
-10079, 11597, 19.2E, RMC Découverte HD 24
-7461, 10949, 13.0E, Brazzers TV Europe
-2006, 11411, 7.0W, No sid found
-20616, 12476, 36.0E, Discovery Science Channel
-9002, 12207, 19.2E, National Geographic Channel France
-1805, 11977, 36.0E, Moya Planeta
-2004, 12358, 156.0E, World Movies Channel
-31010, 12265, 36.0E, STS Love
-3542, 10834, 13.0E, No sid found
-29915, 11435, 19.2E, AXN White España
-2003, 12358, 156.0E, No sid found
-29916, 11435, 19.2E, No sid found
-10206, 12380, 36.0E, La Minor
-2009, 12358, 156.0E, The History Channel Australia & New Zealand
-1310, 10722, 0.4W, No dgr found
-30502, 12034, 0.8W, M2
-31002, 12265, 36.0E, Istoriya Telekanal
-30657, 10979, 19.2E, Canal Hollywood España
-30751, 10935, 19.2E, Calle 13
-20611, 12476, 36.0E, Investigation Discovery Europe
-4410, 10719, 13.0E, TVP Info
-30756, 10935, 19.2E, No sid found
-10105, 12322, 36.0E, Nashe Kino
-7308, 12188, 13.0E, Disco Polo Music
-7111, 2566, 107.0E, No dgr found
-30765, 10935, 19.2E, Canal + Toros
-20101, 12130, 36.0E, NTV Plus Futbol 2
-503, 12120, 85.0E, Outdoor Channel International
-236, 12168, 30.0W, Record News
-104, 12130, 30.0W, CM TV(Portugal)
-30855, 11126, 19.2E, No sid found
-1410, 11800, 85.0E, No sid found
-321, 11278, 0.8W, No sid found
-30408, 11038, 19.2E, Comedy Central España
-30854, 11126, 19.2E, Disney Channel España
-30859, 11126, 19.2E, No sid found
-9306, 12168, 19.2E, France 2
-29954, 10817, 19.2E, Canal + Dcine
-9303, 12168, 19.2E, M6
-13101, 11158, 13.0E, Polsat
-29963, 10817, 19.2E, No sid found
-2180, 11977, 5.0E, No freq found
-9307, 12168, 19.2E, Cine + Émotion
-31001, 11842, 0.8W, Duna TV
-722, 12245, 36.0E, Dom Kino Premium
-230, 12168, 30.0W, TVI Ficção
-30655, 10979, 19.2E, La Sexta
-29901, 11435, 19.2E, Syfy Universal España
-29905, 11435, 19.2E, No sid found
-5036, 12398, 30.0W, No sid found
-16103, 11900, 36.0E, Telekanal Spas
-10306, 12399, 36.0E, STS Moskva
-30601, 10876, 19.2E, Canal + Golf
-4806, 10892, 13.0E, Teletoon + HD Polska(06-21)
-7350, 12188, 13.0E, Disney Channel Polska
-11110, 12341, 36.0E, Nash Futbol
-9302, 12168, 19.2E, Cine + Premier
-29856, 10758, 19.2E, Barça TV
-9305, 12168, 19.2E, Ushuaïa TV
-17104, 11938, 36.0E, TV 1000 Premium HD
-30415, 11038, 19.2E, AMC España
-10308, 12399, 31.0E, No freq found
-9304, 12168, 19.2E, W9
-27015, 12226, 55.9E, No dgr found
-13107, 11158, 13.0E, Polsat News 2
-13025, 11278, 13.0E, FilmBox Extra HD
-61204, 10832, 19.2E, N-TV
-30610, 10876, 19.2E, Canal + Liga
-30611, 10876, 19.2E, No sid found
-1807, 11977, 36.0E, Gulli
-1408, 12246, 30.0W, No sid found
-12104, 12073, 36.0E, Eurosport 1 International
-9401, 12090, 19.2E, No sid found
-209, 12168, 30.0W, Discovery Channel Iberia
-4811, 10892, 13.0E, Domo +
-14256, 11411, 13.0E, No sid found
-12858, 12722, 19.2E, Plug RTL
-4462, 10719, 13.0E, TV Puls(Poland)
-9402, 12090, 19.2E, Disney Cinema
-10211, 12380, 36.0E, Boets
-30518, 11156, 19.2E, D Cine Español
-28661, 11739, 19.2E, Nick Jr Europe
-14101, 11823, 36.0E, Nat Geo Wild Europe
-15032, 11449, 13.0E, Discovery Channel Polska
-16105, 11900, 36.0E, Che(0h)
-30602, 10876, 19.2E, Odisea
-30663, 10979, 19.2E, Cuatro
-13104, 11158, 13.0E, Polsat Sport
-13022, 11278, 13.0E, Canal + Sport Polska
-8809, 12012, 19.2E, Cine + Classic
-13831, 11240, 13.0E, Eurosport 1
-27002, 12226, 56.0E, TNT(+4h)
-30856, 11126, 19.2E, No sid found
-17102, 11938, 36.0E, TV 1000 Comedy HD
-14236, 11411, 13.0E, No sid found
-14206, 11411, 13.0E, Planete + Polska
-1415, 10758, 4.0W, RTV International Israel
-9404, 12090, 19.2E, OCS choc
-56206, 12476, 55.9E, No dgr found
-802, 10806, 0.4W, No dgr found
-9406, 12090, 19.2E, Eurosport 2
-3801, 10902, 0.8W, SVT 1
-110, 12130, 30.0W, Cine Mundo
-9407, 12090, 19.2E, Discovery Science Channel
-20614, 12476, 36.0E, Cartoon Network Russia & South East Europe
-13137, 12070, 23.5E, Prima Cool
-809, 10806, 0.4W, No dgr found
-812, 10806, 4.0W, 9 Kanal
-13801, 11240, 13.0E, Eurosport 2
-2032, 2625, 107.7E, No dgr found
-33205, 12647, 95.0E, No sid found
-3110, 12265, 13.0E, Cinemax 2 Central Europe
-14107, 11823, 36.0E, No sid found
-29858, 10758, 19.2E, MTV España
-13105, 11785, 36.0E, Moskva 24
-813, 10806, 0.4W, No dgr found
-1039, 10747, 0.8W, No sid found
-12101, 12073, 36.0E, HD Kino
-11101, 12341, 36.0E, TNT Comedy
-26006, 11206, 36.0E, No freq found
-6508, 12441, 19.2E, Comédie +
-7315, 12188, 13.0E, Discovery Channel Polska
-4458, 10719, 13.0E, No sid found
-30614, 10876, 19.2E, Syfy Universal España
-10810, 12284, 36.0E, Dom Kino International
-19120, 10996, 36.0E, No freq found
-5007, 12598, 156.0E, Fox Sports Action
-6504, 12441, 19.2E, Djazz TV
-13226, 11158, 13.0E, No sid found
-30521, 11156, 19.2E, Movistar Moto GP
-129, 12130, 30.0W, Sport TV 4
-6509, 12441, 19.2E, Extreme Sports Channel France
-6502, 12441, 19.2E, Mezzo Live HD
-33254, 11090, 95.0E, Travel XP HD
-10302, 12399, 36.0E, TNT(Russia)
-3113, 12265, 13.0E, No sid found
-9403, 12090, 19.2E, Ma Chaîne Sport
-5008, 12598, 156.0E, Crime + Investigation Network Australia
-21104, 12092, 36.0E, Sport(Russia)
-13219, 11158, 13.0E, No sid found
-15902, 10911, 13.0E, Polsat Film
-5004, 12598, 156.0E, Disney Channel Australia
-20506, 12456, 36.0E, Eurosport 1 International
-8209, 12597, 13.0E, CNN Radio
-201, 12168, 30.0W, No sid found
-1610, 12399, 30.0W, TV Cine 2
-13103, 11785, 36.0E, NTV Plus Futbol 2
-31, 11471, 13.0E, Nickelodeon HD
-10812, 12284, 36.0E, MTV Rocks
-804, 10806, 123.0E, No dgr found
-10307, 12399, 36.0E, Rossiya 24
-7182, 11403, 0.8W, SF-kanalen
-10801, 12284, 36.0E, RTR Planeta Ukraina
-7355, 12188, 13.0E, Blue Hustler Europe(23-05)
-4402, 10719, 13.0E, No sid found
-11005, 11928, 156.0E, Discovery Turbo Australia
-30212, 11685, 19.2E, Antena 3(Spain)
-10201, 12380, 36.0E, 365 dnei TV
-4405, 10719, 13.0E, Kino Polska
-3114, 12265, 13.0E, No sid found
-11007, 11928, 156.0E, No sid found
-7250, 11357, 0.8W, Travel Channel HD Europe
-11008, 11928, 156.0E, Disney Junior Australia
-16109, 11900, 36.0E, Domashniy(0h)
-8111, 11934, 19.2E, Numéro 23
-8121, 11934, 19.2E, No sid found
-16112, 11747, 13.0E, No freq found
-13141, 12070, 23.5E, Prima Love
-56506, 12169, 56.0E, No sid found
-56603, 12245, 56.0E, No sid found
-908, 11881, 36.0E, Russkaya Noch
-9906, 12129, 19.2E, J-One
-422, 12437, 36.0E, Boks TV
-202, 12168, 30.0W, SIC Notícias
-19104, 11996, 36.0E, TV 1000 Russkoe Kino
-19107, 11996, 36.0E, Viasat Nature East
-9902, 12129, 19.2E, TCM Cinéma
-8109, 11934, 19.2E, Paris Première
-3670, 11938, 5.0E, No freq found
-8112, 11934, 19.2E, France 3 Corse Via Stella
-314, 11681, 13.0E, France 4
-9909, 12129, 19.2E, MCS Bien-être
-19117, 11996, 36.0E, Armenia TV Satellite
-7359, 12188, 13.0E, TNT Polska
-8208, 11856, 19.2E, France 3 Sat
-15207, 11258, 13.0E, Cinemax Central Europe
-8228, 11856, 19.2E, No sid found
-3106, 12265, 13.0E, TVP 2
-2202, 12015, 36.0E, KHL TV HD
-8204, 11856, 19.2E, Canal + Sport France
-8224, 11856, 19.2E, No sid found
-20618, 12476, 36.0E, MTV Dance
-8729, 12402, 19.2E, No sid found
-8703, 12402, 19.2E, France 4
-8723, 12402, 19.2E, No sid found
-8206, 11856, 19.2E, NRJ 12
-8226, 11856, 19.2E, No sid found
-8229, 11856, 19.2E, No sid found
-8702, 12402, 19.2E, France Ô
-8211, 11856, 19.2E, TMC
-8231, 11856, 19.2E, No sid found
-13023, 11278, 13.0E, National Geographic Channel Polska
-3116, 12265, 13.0E, No sid found
-3109, 12265, 13.0E, AXN Polska
-56526, 12169, 56.0E, No sid found
-18007, 11970, 156.0E, No sid found
-18010, 11970, 156.0E, SoHo +2
-3206, 10809, 0.8W, Disney Channel Scandinavia
-9901, 12124, 19.2E, No freq found
-719, 12245, 36.0E, Mir Seriala
-56303, 12322, 55.9E, No dgr found
-18009, 11970, 156.0E, Lifestyle +2
-8730, 12402, 19.2E, No sid found
-56308, 12322, 56.0E, No sid found
-9905, 12124, 19.2E, No freq found
-8701, 12402, 19.2E, No sid found
-8721, 12402, 19.2E, No sid found
-8704, 12402, 19.2E, France 5
-20202, 12437, 9.0E, Romance TV Deutschland
-8724, 12402, 19.2E, No sid found
-9903, 12124, 19.2E, No freq found
-8708, 12402, 19.2E, W9
-8728, 12402, 19.2E, No sid found
-10125, 12322, 36.0E, Blue Hustler Europe(22-04)
-10101, 12169, 36.0E, No sid found
-30505, 12034, 0.8W, Sport 2 Czechia
-12856, 12722, 19.2E, RTL TVI
-30702, 11938, 0.8W, JimJam Europe
-1245, 12331, 160.0E, No sid found
-2712, 11216, 0.8W, No sid found
-18008, 11970, 156.0E, Fox 8 +2
-18002, 11970, 156.0E, Foxtel Movies Premiere +2
-19114, 11996, 36.0E, EuroNews
-1242, 12671, 160.0E, No sid found
-706, 12245, 36.0E, Eurosport 2 North-East
-30106, 11727, 0.8W, CT 1
-6304, 11376, 19.2E, BeIn Sports 3
-18003, 11970, 156.0E, The Comedy Channel +2
-30706, 11938, 0.8W, No sid found
-1811, 11977, 36.0E, Outdoor Channel International
-30108, 11727, 0.8W, TA 3(Mon-Fri 07-24 & Sat-Sun 08-24)
-7318, 12188, 13.0E, AXN Polska
-2108, 11216, 0.8W, Sjuan
-460, 12692, 13.0E, AB 3
-1318, 11760, 85.0E, Detskiy
-1320, 11760, 85.0E, Evrokino
-1418, 10758, 4.0W, Eurosport 1
-1303, 10722, 4.0W, Nat Geo Wild Europe
-7306, 12188, 13.0E, Eurosport 1 Polska
-1602, 11216, 0.8W, No sid found
-340, 12646, 166.0E, OTV(Lebanon)
-330, 12646, 166.0E, ART Hekayat
-15907, 10911, 13.0E, Polsat News
-17035, 12285, 19.2E, RTL 9
-3111, 12265, 13.0E, Fox Polska
-17036, 12285, 19.2E, Chasse & Pêche
-17023, 12285, 19.2E, Science & Vie TV
-17020, 12285, 19.2E, AB Moteurs
-17030, 12285, 19.2E, Action(France)
-17022, 12285, 19.2E, Animaux
-380, 12646, 166.0E, Syria Drama
-17026, 12285, 19.2E, Toute l'Histoire
-14604, 11117, 13.0E, BBC Lifestyle Polska
-15905, 10911, 13.0E, TLC Polska
-3117, 12265, 13.0E, No sid found
-17025, 12285, 19.2E, Trek
-17021, 12285, 19.2E, AB 1
-5035, 12398, 30.0W, No sid found
-17031, 12285, 19.2E, Mangas
-0, 54528, -22.2W, No dgr found
-64, 1297, -22.2W, No dgr found
-3103, 12265, 13.0E, Fox Comedy Polska
-150, 12646, 166.0E, ART Variety Australia
-183, 12646, 166.0E, MBC International
-3115, 12265, 13.0E, No sid found
-13883, 11240, 13.0E, No freq found
-1406, 12246, 30.0W, No sid found
-456, 12246, 30.0W, Fox Portugal
-197, 12646, 166.0E, LDC America & Australia
-360, 12646, 166.0E, Rai Italia Australia
-15901, 10911, 13.0E, Sundance Channel Europe
-300, 12646, 166.0E, MTV Alloubnaniya
-320, 12646, 166.0E, BeIn Sports Global
-463, 12692, 13.0E, Science & Vie TV
-12164, 12551, 19.2E, NT1
-12165, 12551, 19.2E, No freq found
-17309, 10815, 13.0E, Baby TV Europe
-27005, 12226, 36.0E, Perviy kanal(0h)
-3119, 12265, 13.0E, History Europe
-3107, 12265, 13.0E, Polsat
-3112, 12265, 13.0E, No sid found
-807, 11840, 85.0E, NTV(+3h)
+1403, 11800, 85.0E, TV 1000 Comedy HD
 16932, 11662, 13.0E, Redlight HD
-15906, 10911, 13.0E, H2 Polska
-502, 12120, 85.0E, Match TV
+92, 11960, 85.0E, No sid found
 810, 11840, 85.0E, Animal Planet HD
-4452, 10719, 13.0E, No sid found
-16943, 11662, 13.0E, No freq found
+92, 11954, 85.0E, No freq found
+1012, 10842, 0.4W, No dgr found
+403, 12080, 85.0E, Rossiya 1(+4h)
+4458, 10719, 13.0E, No sid found
 16933, 11662, 13.0E, Hustler HD Europe
-16944, 11662, 13.0E, No freq found
-4960, 11179, 13.0E, Private TV
-2001, 12358, 156.0E, No sid found
-1603, 11872, 85.0E, Perviy kanal(+2h)
-1601, 11872, 85.0E, No sid found
-509, 12120, 85.0E, Mult
-307, 12000, 85.0E, TV 3(0h)
-10506, 12284, 13.0E, Extreme Sports Channel
-705, 12034, 7.0W, ART Hekayat 2
+16944, 11662, 13.0E, No sid found
+415, 12075, 85.0E, No freq found
+4960, 11179, 13.2E, No dgr found
+16943, 11662, 13.0E, No sid found
+10307, 12245, 36.0E, No sid found
+102, 12640, 85.0E, Rossiya 1(0h)
+9903, 12128, 19.2E, Golf +
+9901, 12128, 19.2E, Discovery Showcase HD
+1401, 11800, 85.0E, TV 1000 Premium HD
+808, 11840, 85.0E, STS(+4h)
+140, 12646, 166.0E, Al Jadeed Sat
+1409, 11800, 85.0E, Dange TV
+110, 12646, 166.0E, ART Movies America
+5107, 11488, 13.0E, Eleven Polska
+1207, 11920, 85.0E, Galaxy
+1803, 11977, 36.0E, TV Centr Moskva
+15905, 10911, 13.0E, TLC Polska
+0, 55040, -22.2W, No dgr found
 160, 1809, -22.2W, No dgr found
-513, 12120, 85.0E, Nastoyashee Strashnoe TV
-407, 12080, 85.0E, Discovery Turbo Xtra East Europe
-713, 11720, 85.0E, Muz TV(0h)
-701, 11720, 85.0E, No sid found
-903, 11960, 85.0E, Travel Channel HD Europe
-114, 12640, 85.0E, TNT(0h)
-8406, 12670, 19.2E, 6ter
-4108, 4157, 10.0E, No freq found
-731, 12207, 23.5E, Sport 1 Czechia
-17004, 10758, 13.0E, VOD 203
+0, 63232, -22.2W, No dgr found
+136, 11876, 19.2E, TNT Glitz
+13110, 11785, 36.0E, TV XXI
+415, 12080, 85.0E, Russkiy Roman
+15913, 10911, 13.0E, No sid found
+3002, 12478, 156.0E, Fox Sports 2 Australia
+404, 12080, 85.0E, Kino TV(Russia)
+0, 55296, -22.2W, No dgr found
+160, 2065, -22.2W, No dgr found
+2, 2065, -22.2W, No dgr found
+56601, 12245, 57.0E, No freq found
+10208, 12380, 36.0E, Muzhskoye Kino
+56627, 12245, 56.0E, No sid found
+53592, 11596, 28.2E, Climax
+1316, 11760, 85.0E, Russkaya Noch
+914, 11960, 85.0E, Discovery Science Channel
+468, 12692, 13.0E, XXL(22.30-03.00)
+712, 12245, 36.0E, Sony Turbo
+4007, 12394, 156.0E, Lifestyle Food
+711, 12245, 36.0E, Sony Sci-Fi Russia
+16104, 11900, 36.0E, 24 Dok
+904, 11960, 85.0E, No sid found
+15901, 10911, 13.0E, Sundance Channel Europe
 4411, 10719, 13.0E, TVP 3 Warszawa
+29, 11471, 13.0E, Paramount Channel Polska
+17105, 11938, 36.0E, Viasat Nature HD(07-19)
+13077, 11278, 13.0E, No sid found
+1803, 11823, 36.0E, No sid found
+10308, 12245, 4.9E, No sid found
 4064, 12515, 19.2E, Vivid TV Europe
-56306, 12322, 56.0E, No sid found
-14103, 11823, 36.0E, Mezzo Live HD
-15917, 10911, 13.0E, No sid found
-19112, 11996, 36.0E, NTN
-13, 10758, 4.0W, Pershiy Nacionalniy
-1511, 12560, 85.0E, Eurosport 1 International
-9019, 12136, 156.0E, No sid found
-7509, 4160, 107.7E, No dgr found
-5060, 11881, 5.0E, No freq found
-8404, 12670, 19.2E, Planète + A&E;
-4805, 10892, 13.0E, Ale Kino +
-6206, 11876, 28.2E, Discovery Science Channel UK
-10109, 12322, 36.0E, Kto est kto
-1107, 10890, 0.4W, No dgr found
-20895, 11915, 23.5E, Travel Channel HD Europe
-17005, 10758, 13.0E, VOD 204
-4312, 11393, 13.0E, TVN 24
-17012, 12438, 156.0E, No sid found
-1212, 11920, 85.0E, Bashkirskoe Sputnikovoe TV
-56305, 12322, 56.0E, No sid found
-9018, 12136, 156.0E, No sid found
-31070, 12303, 36.0E, U(0h)
-6036, 11739, 23.5E, Boomerang Nederland
-253, 12600, 85.0E, Che(+4h)
-4065, 12515, 19.2E, Vivid TV Europe
-1322, 11760, 85.0E, Illusion +
-7372, 12188, 13.0E, Viasat History Polska
-1501, 11862, 36.0E, No sid found
-28657, 11739, 19.2E, VH1 Classic Europe
+903, 11960, 85.0E, Travel Channel HD Europe
+723, 12245, 36.0E, No sid found
+56206, 12476, 56.0E, No sid found
+601, 12476, 36.0E, No sid found
+31003, 12265, 36.0E, Fine Living
+108, 12640, 85.0E, NTV(0h)
 922, 11881, 36.0E, Brazzers TV Europe
-11009, 11928, 156.0E, TLC Australia
-12004, 12638, 156.0E, Eurosport News
-3101, 12265, 13.0E, No sid found
-6630, 12130, 5.0E, No freq found
-14605, 11117, 13.0E, CBeebies Polska
-19118, 10996, 36.0E, No freq found
-30718, 11938, 0.8W, Eurosport 2 North-East
-4322, 11393, 13.0E, TVN 24 Biznes i Swiat
-5059, 12110, 23.5E, Muzika CS
-3647, 11880, 13.0E, MTV 8
-1960, 12608, 5.0E, No freq found
-13112, 11785, 36.0E, Playboy TV Europe(23-05)
-192, 11595, 16.0E, RTL Crime Hrvatska
-27011, 12226, 55.9E, No dgr found
-6660, 12130, 5.0E, No freq found
-10265, 10906, 28.2E, ITV Encore +1
-30201, 11686, 19.2E, Paramount Channel España
-7041, 11856, 23.5E, Reality Kings TV(22-06)
-716, 12245, 36.0E, Radost Moya
-56504, 12169, 56.0E, No sid found
-8605, 12324, 19.2E, NRJ 12
-291, 11678, 16.0E, RTL Hrvatska
-19109, 11996, 36.0E, Lider TV
-1810, 11977, 36.0E, Bashkirskoe Sputnikovoe TV
-21108, 12092, 36.0E, Amedia Premium HD
-15908, 10911, 13.0E, FightBox HD
-707, 11720, 85.0E, Che(0h)
-7236, 10903, 0.8W, TV 4 Fakta XL
-3560, 11900, 0.8W, Nat Geo Wild Romania
-19106, 11996, 36.0E, Viasat History
-1604, 11872, 85.0E, Rossiya 1(+2h)
-56602, 12245, 56.0E, No sid found
-303, 11681, 13.0E, France 3 Sat
-5402, 12574, 19.2E, DMAX Deutschland
-1011, 12558, 156.0E, Showcase(Australia)
-1816, 11977, 36.0E, RTG TV
-119, 11332, 19.2E, Sport 1 US
-5078, 11895, 23.5E, Prima Comedy Central
-17001, 11372, 0.8W, No sid found
-1502, 12560, 85.0E, TV 1000 Russkoe Kino
-417, 11258, 0.4W, No dgr found
-19111, 11996, 36.0E, Perviy Obrazovatelniy
-408, 12437, 36.0E, Mir Belogorya TV
-1808, 11977, 36.0E, History Russia
-6050, 11804, 5.0E, No freq found
-1105, 12040, 85.0E, Paramount Channel Russia
-61302, 11464, 19.2E, Kabel Eins Deutschland
-1407, 10758, 4.0W, Junior(Israel)
-718, 12245, 36.0E, GTRK Groznyj
-17027, 10758, 13.0E, Fight Klub
-125, 11332, 19.2E, AXN Deutschland
-1109, 10890, 4.0W, MTV Europe
-43, 11720, 19.2E, Sky Cinema +24(Germany)
-4750, 12207, 28.2E, No sid found
-4040, 11823, 0.8W, M1(Hungary)
+118, 11914, 19.2E, Nat Geo Wild Deutschland
+206, 10934, 0.8W, Nickelodeon Norge(06-21)
+1025, 10934, 0

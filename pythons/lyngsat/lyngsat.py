@@ -7,21 +7,13 @@ import urllib2
 import os
 import logging
 
-# 配置日志信息
-logging.basicConfig(level=logging.DEBUG,
-                    format='%(message)s',
-                    datefmt='%m-%d %H:%M',
-                    filename='channel_s_info.log',
-                    filemode='w')
-# 定义一个Handler打印INFO及以上级别的日志到sys.stderr
-console = logging.StreamHandler()
-console.setLevel(logging.INFO)
-# 设置日志打印格式
-formatter = logging.Formatter('%(message)s')
-console.setFormatter(formatter)
-# 将定义好的console日志handler添加到root logger
-logging.getLogger('').addHandler(console)
-logger = logging.getLogger('as_channel')
+class MyLogging():
+	def debug(self, string):
+		print string
+	def info(self, string):
+		print string
+	def warnning(self, string):
+		print string
 
 class Lyngsat():
 	"""docstring for Lyngsat"""
@@ -80,6 +72,8 @@ class Lyngsat():
 								if '&nbsp;' in chn_freq_content:
 									# chn_freq_content = '%s%s' % (chn_freq_content.strip().strip('&nbsp;').split('&')[0], chn_freq_content.split(';')[-1])
 									chn_freq_content = chn_freq_content.strip().strip('&nbsp;').split('&')[0]
+								elif ' ' in chn_freq_content:
+									chn_freq_content = chn_freq_content.strip().strip('&nbsp;').split(' ')[0]
 								else:
 									chn_freq_content = chn_freq_content
 							except Exception, e:
@@ -88,7 +82,7 @@ class Lyngsat():
 								chn_freq_content = ''
 						# it's what we need
 						if chn_freq_content:
-							if abs(float(chn_freq_content)- float(freq)) < 5:
+							if abs(float(chn_freq_content)- float(freq)) < 6:
 								chn_freq = str(chn_freq_content)
 								tds2_a = tds[2].findAll('a')
 								if len(tds2_a):
@@ -107,16 +101,24 @@ class Lyngsat():
 							if td.attrs and ('bgcolor','#99ff99') in td.attrs:
 								chn_info.append(td.text)
 						if len(chn_info):
-							chn_sid = chn_info[3].lstrip('&nbsp;')
+							chn_sid_content = chn_info[3]
+							if '&nbsp;' in chn_sid_content:
+								# chn_freq_content = '%s%s' % (chn_freq_content.strip().strip('&nbsp;').split('&')[0], chn_freq_content.split(';')[-1])
+								chn_sid = chn_sid_content.strip().strip('&nbsp;').split('&')[0]
+							elif ' ' in chn_freq_content:
+								chn_sid = chn_sid_content.strip().strip('&nbsp;').split(' ')[0]
+							else:
+								chn_sid = chn_sid_content
 							# print chn_info
 							if chn_sid == '':continue
-							if chn_sid == sid:chn_name = chn_info[0]
+							if int(chn_sid) == int(sid):chn_name = chn_info[0]
 		if chn_name == '':
 			if chn_freq == '': return (False, 'No freq found')
 			else:
 				for link in pkg_links:
 					(result, chn_name) = self.lookup_chn_in_pkg(link[1],link[0], sid)
 					if result:return (True, chn_name)
+				return (False, 'No sid found')
 		return (True, chn_name)
 
 	# 在package页面中查找指定freq上指定sid的频道
@@ -177,7 +179,13 @@ class Lyngsat():
 								break
 							if float(chn_freq_content)== float(freq):
 								chn_freq = str(chn_freq_content)
-								chn_sid = tds[6].text
+								chn_sid_content = tds[6].text
+								if '&nbsp;' in chn_sid_content:
+									chn_sid = chn_sid_content.strip().strip('&nbsp;').split('&')[0]
+								elif ' ' in chn_sid_content:
+									chn_sid = chn_sid_content.strip().strip('&nbsp;').split(' ')[0]
+								else:
+									chn_sid = chn_sid_content
 								if chn_sid == sid:
 									chn_name = tds[2].text
 									break
@@ -241,9 +249,9 @@ class Lyngsat():
 	# 读取所有卫星的页面链接
 	def get_sat_links(self):
 		links = []
-		if os.path.exists('satellite_url.txt'):
+		if os.path.exists('satelliteUrls.txt'):
 			# print 'reading satellite urls from file...'
-			file_sat_url = open('satellite_url.txt', 'r')
+			file_sat_url = open('satelliteUrls.txt', 'r')
 			for line in file_sat_url.readlines():
 				links.append(tuple(eval(line.encode())))
 			file_sat_url.close()
@@ -254,7 +262,7 @@ class Lyngsat():
 			for url in url_file.readlines():
 				links_return.extend(self.get_sat_urls(url))
 			url_file.close()
-			file_sat_url = open('satellite_url.txt', 'w')
+			file_sat_url = open('satelliteUrls.txt', 'w')
 			for link in links_return:
 				if link not in links:
 					links.append(link)
@@ -275,7 +283,7 @@ class Lyngsat():
 
 	def get_page_contents(self, url):
 		page_contents = ''
-		file_path = './satellite_pages/sat_' + str(hash(url)) + '_' + url.split('/')[-1]
+		file_path = './satellitePages/sat_' + str(hash(url)) + '_' + url.split('/')[-1]
 		if os.path.exists(file_path):
 			# print 'reading page contents from file...'
 			file_page = open(file_path, 'r')
@@ -283,7 +291,7 @@ class Lyngsat():
 			file_page.close()
 		else:
 			# print 'reading page contents from lyngsat.com...'
-			if not os.path.exists('./satellite_pages'):os.makedirs('./satellite_pages')
+			if not os.path.exists('./satellitePages'):os.makedirs('./satellitePages')
 			try:
 				res = urllib2.urlopen(url, timeout=20)
 				page_contents = res.read()
@@ -355,7 +363,27 @@ def sort_sat_by_freq():
 	file_chn.close()
 	f.close()
 
+def config_logging(do_log):
+	if not do_log:return MyLogging()
+	# 配置日志信息
+	logging.basicConfig(level=logging.DEBUG,
+						format='%(message)s',
+						datefmt='%m-%d %H:%M',
+						filename='lyngsat.log',
+						filemode='w')
+	# 定义一个Handler打印INFO及以上级别的日志到sys.stderr
+	console = logging.StreamHandler()
+	console.setLevel(logging.INFO)
+	# 设置日志打印格式
+	formatter = logging.Formatter('%(message)s')
+	console.setFormatter(formatter)
+	# 将定义好的console日志handler添加到root logger
+	logging.getLogger('').addHandler(console)
+	logger = logging.getLogger('as_channel')
+	return logger
+
 if __name__ == '__main__':
+	logger = config_logging(0)
 	lyngsat = Lyngsat()
 
 
@@ -370,14 +398,14 @@ if __name__ == '__main__':
 
 	# exit()
 
-	# urls_sats =  lyngsat.lookup_sat_urls('36.0E')
-	# for urls_sat in urls_sats:
-	# 	(result, chn_name) = lyngsat.lookup_chn_in_sat(urls_sat, 12476, 604)
-	# 	if result:
-	# 		break
-	# logger.info('chn name:' + chn_name)
-    #
-	# exit()
+	urls_sats =  lyngsat.lookup_sat_urls('19.2E')
+	for urls_sat in urls_sats:
+		(result, chn_name) = lyngsat.lookup_chn_in_sat(urls_sat, 12012, 8801)
+		if result:
+			break
+	logger.info('chn name:' + chn_name)
+
+	exit()
 
 	# sort_sat_by_freq()
 	lyngsat.gen_all_name('satellites.txt', 'channels.txt')
