@@ -5,7 +5,6 @@ from BeautifulSoup import BeautifulSoup
 import sys
 import urllib2
 import os
-import logging
 
 class MyLogging():
 	def debug(self, string):
