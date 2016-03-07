@@ -1,6 +1,11 @@
 <?php
-require __DIR__ . '/vendor/autoload.php';
+// 1. Autoload the SDK Package. This will include all the files and classes to your autoloader
+// Used for composer based installation
+require __DIR__  . '/vendor/autoload.php';
+// Use below for direct download installation
+// require __DIR__  . '/PayPal-PHP-SDK/autoload.php';
 
+// After Step 1
 $apiContext = new \PayPal\Rest\ApiContext(
     new \PayPal\Auth\OAuthTokenCredential(
         'AfVInSvRmffye5_NRXYi0jQFp7J2IR6Tlqri5KPOJbpiiXhZpM_ckVloAcqkfawUJU2mp9Hb8tkhaT2F',     // ClientID
@@ -8,6 +13,7 @@ $apiContext = new \PayPal\Rest\ApiContext(
     )
 );
 
+// After Step 2
 $creditCard = new \PayPal\Api\CreditCard();
 $creditCard->setType("visa")
     ->setNumber("4417119669820331")
@@ -17,6 +23,16 @@ $creditCard->setType("visa")
     ->setFirstName("Joe")
     ->setLastName("Shopper");
 
+// Step 2.1 : Between Step 2 and Step 3
+$apiContext->setConfig(
+  array(
+    'log.LogEnabled' => true,
+    'log.FileName' => 'PayPal.log',
+    'log.LogLevel' => 'FINE'
+  )
+);
+
+// After Step 3
 try {
     $creditCard->create($apiContext);
     echo $creditCard;
