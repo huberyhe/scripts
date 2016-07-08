@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import urllib2
 
 class RedirectHandler(urllib2.HTTPRedirectHandler):
@@ -15,3 +16,4 @@ opener = urllib2.build_opener(RedirectHandler)
 rest2 = urllib2.urlopen(rUrl)
 # print rest.info()
 print rest2.geturl()
+print '█'
