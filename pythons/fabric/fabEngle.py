@@ -21,6 +21,7 @@ def restart_cwforwarder():
 def restart_arjlog():
 	run("sudo systemctl restart arjlog.service")
 
+@task
 @roles('rservers')
 def restart_services():
 	run("sudo chroot /mnt/test/ ikstcp_restart.sh")
