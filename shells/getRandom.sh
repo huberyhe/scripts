@@ -4,9 +4,10 @@ function getRandom ()
 {
 	retArray=();
 	count=$1;
+    out=$2
 	have=0;
-	while (($have<$count)); do
-		ret=$(($RANDOM%14));
+	while (($have<$out)); do
+		ret=$(($RANDOM%$count));
 		if [[ "${retArray[@]/$ret/}" != "${retArray[@]}" ]]; then
 			continue;
 		else
@@ -20,4 +21,4 @@ function getRandom ()
 
 }
 
-getRandom 4
+getRandom 14 2
