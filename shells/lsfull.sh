@@ -1,3 +1,7 @@
 #!/bin/bash
 set +e
-ls $* | sed "s:^:`pwd`/:"
+if [[ $1 != '' ]]; then
+    cd $1
+fi
+
+ls | sed "s:^:`pwd`/:"
