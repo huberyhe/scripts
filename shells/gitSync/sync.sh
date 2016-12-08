@@ -136,7 +136,7 @@ if [[ $1 == 'open' ]]; then
 		dirFullName=$(pwd)
 		cd -P - >/dev/null
 		yellow "open -> ${dirFullName}"
-		if [[ ! -d $1 ]]; then
+		if [[ ! -d $dirFullName ]]; then
 			red 'dir not exist.'
 			continue
 		fi
