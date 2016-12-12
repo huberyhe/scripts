@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x
 
 function push ()
 {
@@ -114,6 +115,7 @@ scriptPath=${scriptPath/\./$(pwd)}
 iniFile="$scriptPath/list.ini"
 commit="`date +%y%m%d` - nightly"
 
+
 # WID=$(xprop -root | grep "_NET_ACTIVE_WINDOW(WINDOW)"| awk '{print $5}')
 # xdotool windowfocus $WID
 # xdotool key ctrl+shift+t
@@ -178,3 +180,5 @@ elif [[ $1 == 'delete' ]]; then
 else
 	usage
 fi
+
+# exit 0
