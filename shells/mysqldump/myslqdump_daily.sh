@@ -14,7 +14,7 @@ mysqldump -u$USER -p$PASS $DBNAME > $BKDIR/$DBNAME-`date +%y%m%d%H%M`.sql
 bkCount=`ls -1t $BKDIR | wc -l`
 echo "$bkCount files."
 
-if [[ $bkCont -lt $MAXBK ]] ; then
+if [[ $bkCount -lt $MAXBK ]] ; then
     echo "too many, delete old one to storage space"
     oldOne=`ls -1t $BKDIR | tail -n 1`
     rm -f "$BKDIR/$oldOne"
