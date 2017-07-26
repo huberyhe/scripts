@@ -1,5 +1,5 @@
-#/usr/bin/env python
-#import sys 
+#!/usr/bin/env python
+#import sys
 
 import geoip2.database
 #import maxminddb
@@ -35,4 +35,4 @@ if __name__ == '__main__':
 	except Exception, e:
 		print e
 	finally:
-		print 'Script closed.'
+		print 'Done!'
