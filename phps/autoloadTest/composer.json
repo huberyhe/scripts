@@ -1,0 +1,11 @@
+{
+    "require": {
+        "hashids/hashids": "^2.0"
+    },
+    "autoload": {
+        "files": ["core/basic.php"],
+        "psr-4": {
+            "Core\\": "core/"
+        }
+    }
+}
