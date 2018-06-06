@@ -1,0 +1,6 @@
+syntax = "proto3";
+package foo;
+message TestMessage {
+  int32 optional_int32 = 1;
+  repeated    int32 repeated_int32    = 2;
+}
